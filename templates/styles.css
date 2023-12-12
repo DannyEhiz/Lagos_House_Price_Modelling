@@ -1,0 +1,18 @@
+body {
+    padding-top: 56px;
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  main {
+    padding-top: 56px;
+  }
+  
+  .carousel-item {
+    height: 300px;
+  }
+  

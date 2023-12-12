@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Model Testing</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">Model Testing</a>
+    </nav>
+  </header>
+
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6">
+          <form action="/deployer" method="post" class="mt-4">
+            <div class="form-group">
+              <label for="LotFrontage">Lot Frontage:</label>
+              <input type="number" class="form-control" id="LotFrontage" name="LotFrontage">
+            </div>
+            <div class="form-group">
+              <label for="LotArea">Lot size in square feet:</label>
+              <input type="number" class="form-control" id="LotArea" name="LotArea">
+            </div>
+            <div class="form-group">
+              <label for="BsmtUnfSF">Unfinished square feet of basement area:</label>
+              <input type="number" class="form-control" id="BsmtUnfSF" name="BsmtUnfSF">
+            </div>
+            <div class="form-group">
+              <label for="GrLivArea">Above grade (ground) living area square feet:</label>
+              <input type="number" class="form-control" id="GrLivArea" name="GrLivArea">
+            </div>
+            <div class="form-group">
+              <label for="MSSubClass">The building class</label>
+              <input type="number" class="form-control" id="MSSubClass" name="MSSubClass">
+            </div>
+            <div class="form-group">
+              <label for="TotalBsmtSF">Total square feet of basement area</label>
+              <input type="number" class="form-control" id="TotalBsmtSF" name="TotalBsmtSF">
+            </div>
+            <div class="form-group">
+              <label for="BsmtFinSF1">Type 1 finished square feet</label>
+              <input type="number" class="form-control" id="BsmtFinSF1" name="BsmtFinSF1">
+            </div>
+            <button type="submit" class="btn btn-primary">Predict</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
