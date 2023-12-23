@@ -1,5 +1,6 @@
 body {
     padding-top: 56px;
+    background-color: #B9B4C7;
   }
   
   header {
@@ -15,4 +16,15 @@ body {
   .carousel-item {
     height: 300px;
   }
-  
+
+.sub_body {
+    background-color: #5C5470;
+    /* width: 85vw; */
+    height: 87vh;
+    /* margin-top: vh; */
+    margin-bottom: 2vh;
+    margin-left: 10vw;
+    margin-right: 40vw;
+    border-radius: 50px;
+    position: relative;
+  }
