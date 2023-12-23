@@ -1,0 +1,905 @@
+,Location,Price,Bedroom,Bathrooms,Toilet,Location Area,State
+0,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+1,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+2,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+3, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+4, Ikoyi,9500000,2,2,3,Parkview, Lagos
+5, Ikoyi,9500000,2,2,3,Parkview, Lagos
+6, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+7, Ikoyi,9500000,2,2,3,Parkview, Lagos
+8, Ikoyi,9500000,2,2,3,Parkview, Lagos
+9, Ikoyi,9500000,2,2,3,Parkview, Lagos
+10, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+11, Ikoyi,9500000,2,2,3,Parkview, Lagos
+12, Ikoyi,110000,2,2,3,Banana Island, Lagos
+13, Ikoyi,110000,2,2,3,Banana Island, Lagos
+14, Ikoyi,110000,2,2,3,Banana Island, Lagos
+15, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+16, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+17, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+18,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+19,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+20, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+21, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+22, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+23, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+24, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+25, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+26, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+27, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+28, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+29,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+30, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+31, Ikoyi,110000,2,2,3,Banana Island, Lagos
+32, Ikoyi,110000,2,2,3,Banana Island, Lagos
+33, Ikoyi,110000,2,2,3,Banana Island, Lagos
+34, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+35, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+36, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+37, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+38, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+39, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+40, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+41, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+42, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+43, Ikoyi,110000,2,2,3,Banana Island, Lagos
+44, Ikoyi,110000,2,2,3,Banana Island, Lagos
+45, Ikoyi,110000,2,2,3,Banana Island, Lagos
+46, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+47, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+48, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+49, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+50, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+51, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+52, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+53, Ikoyi,110000,2,2,3,Banana Island, Lagos
+54, Ikoyi,110000,2,2,3,Banana Island, Lagos
+55, Ikoyi,110000,2,2,3,Banana Island, Lagos
+56, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+57,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+58,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+59,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+60,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+61, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+62,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+63,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+64,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+65, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+66, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+67, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+68,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+69, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+70, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+71, Ikoyi,110000,2,2,3,Banana Island, Lagos
+72, Ikoyi,110000,2,2,3,Banana Island, Lagos
+73, Ikoyi,110000,2,2,3,Banana Island, Lagos
+74,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+75,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+76, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+77,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+78, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+79,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+80, Ikoyi,110000,2,2,3,Banana Island, Lagos
+81, Ikoyi,110000,2,2,3,Banana Island, Lagos
+82, Ikoyi,110000,2,2,3,Banana Island, Lagos
+83, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+84, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+85, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+86, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+87, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+88, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+89, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+90, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+91, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+92, Ikoyi,110000,2,2,3,Banana Island, Lagos
+93, Ikoyi,110000,2,2,3,Banana Island, Lagos
+94, Ikoyi,110000,2,2,3,Banana Island, Lagos
+95, Ikoyi,110000,2,2,3,Banana Island, Lagos
+96, Ikoyi,110000,2,2,3,Banana Island, Lagos
+97, Ikoyi,110000,2,2,3,Banana Island, Lagos
+98, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+99, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+100, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+101, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+102, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+103, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+104, Ikoyi,110000,2,2,3,Banana Island, Lagos
+105, Ikoyi,110000,2,2,3,Banana Island, Lagos
+106, Ikoyi,110000,2,2,3,Banana Island, Lagos
+107, Ikoyi,110000,2,2,3,Banana Island, Lagos
+108, Ikoyi,110000,2,2,3,Banana Island, Lagos
+109, Ikoyi,110000,2,2,3,Banana Island, Lagos
+110, Ikoyi,110000,2,2,3,Banana Island, Lagos
+111, Ikoyi,110000,2,2,3,Banana Island, Lagos
+112, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+113, Ikoyi,110000,2,2,3,Banana Island, Lagos
+114, Ikoyi,9500000,2,2,3,Parkview, Lagos
+115, Ikoyi,9500000,2,2,3,Parkview, Lagos
+116, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+117, Ikoyi,9500000,2,2,3,Parkview, Lagos
+118, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+119, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+120, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+121, Ikoyi,110000,2,2,3,Banana Island, Lagos
+122, Ikoyi,110000,2,2,3,Banana Island, Lagos
+123, Ikoyi,110000,2,2,3,Banana Island, Lagos
+124, Ikoyi,110000,2,2,3,Banana Island, Lagos
+125, Ikoyi,110000,2,2,3,Banana Island, Lagos
+126, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+127, Ikoyi,110000,2,2,3,Banana Island, Lagos
+128, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+129,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+130,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+131, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+132, Ikoyi,110000,2,2,3,Banana Island, Lagos
+133, Ikoyi,110000,2,2,3,Banana Island, Lagos
+134, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+135, Ikoyi,110000,2,2,3,Banana Island, Lagos
+136, Ikoyi,110000,2,2,3,Banana Island, Lagos
+137, Ikoyi,110000,2,2,3,Banana Island, Lagos
+138, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+139, Ikoyi,110000,2,2,3,Banana Island, Lagos
+140, Ikoyi,110000,2,2,3,Banana Island, Lagos
+141, Ikoyi,110000,2,2,3,Banana Island, Lagos
+142, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+143, Ikoyi,110000,2,2,3,Banana Island, Lagos
+144, Ikoyi,110000,2,2,3,Banana Island, Lagos
+145, Ikoyi,110000,2,2,3,Banana Island, Lagos
+146, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+147, Ikoyi,110000,2,2,3,Banana Island, Lagos
+148, Ikoyi,9500000,2,2,3,Parkview, Lagos
+149, Ikoyi,9500000,2,2,3,Parkview, Lagos
+150, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+151, Ikoyi,9500000,2,2,3,Parkview, Lagos
+152, Ikoyi,9500000,2,2,3,Parkview, Lagos
+153, Ikoyi,9500000,2,2,3,Parkview, Lagos
+154, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+155, Ikoyi,9500000,2,2,3,Parkview, Lagos
+156, Ikoyi,110000,2,2,3,Banana Island, Lagos
+157, Ikoyi,110000,2,2,3,Banana Island, Lagos
+158, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+159, Ikoyi,110000,2,2,3,Banana Island, Lagos
+160, Ikoyi,110000,2,2,3,Banana Island, Lagos
+161, Ikoyi,110000,2,2,3,Banana Island, Lagos
+162, Ikoyi,110000,2,2,3,Banana Island, Lagos
+163, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+164, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+165, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+166, Ikoyi,110000,2,2,3,Banana Island, Lagos
+167, Ikoyi,110000,2,2,3,Banana Island, Lagos
+168, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+169, Ikoyi,110000,2,2,3,Banana Island, Lagos
+170, Ikoyi,110000,2,2,3,Banana Island, Lagos
+171, Ikoyi,110000,2,2,3,Banana Island, Lagos
+172, Ikoyi,110000,2,2,3,Banana Island, Lagos
+173, Ikoyi,9500000,2,2,3,Parkview, Lagos
+174, Ikoyi,9500000,2,2,3,Parkview, Lagos
+175, Ikoyi,9500000,2,2,3,Parkview, Lagos
+176, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+177, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+178, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+179,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+180, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+181, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+182, Ikoyi,110000,2,2,3,Banana Island, Lagos
+183, Ikoyi,110000,2,2,3,Banana Island, Lagos
+184, Ikoyi,110000,2,2,3,Banana Island, Lagos
+185, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+186, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+187, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+188, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+189, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+190, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+191, Ikoyi,110000,2,2,3,Banana Island, Lagos
+192, Ikoyi,110000,2,2,3,Banana Island, Lagos
+193, Ikoyi,110000,2,2,3,Banana Island, Lagos
+194, Ikoyi,110000,2,2,3,Banana Island, Lagos
+195, Ikoyi,110000,2,2,3,Banana Island, Lagos
+196, Ikoyi,110000,2,2,3,Banana Island, Lagos
+197, Ikoyi,9500000,2,2,3,Parkview, Lagos
+198, Ikoyi,9500000,2,2,3,Parkview, Lagos
+199, Ikoyi,9500000,2,2,3,Parkview, Lagos
+200, Ikoyi,9500000,2,2,3,Parkview, Lagos
+201, Ikoyi,9500000,2,2,3,Parkview, Lagos
+202, Ikoyi,9500000,2,2,3,Parkview, Lagos
+203, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+204, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+205, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+206, Ikoyi,110000,2,2,3,Banana Island, Lagos
+207, Ikoyi,110000,2,2,3,Banana Island, Lagos
+208, Ikoyi,110000,2,2,3,Banana Island, Lagos
+209, Ikoyi,110000,2,2,3,Banana Island, Lagos
+210, Ikoyi,110000,2,2,3,Banana Island, Lagos
+211, Ikoyi,110000,2,2,3,Banana Island, Lagos
+212, Ikoyi,110000,2,2,3,Banana Island, Lagos
+213, Ikoyi,110000,2,2,3,Banana Island, Lagos
+214, Ikoyi,110000,2,2,3,Banana Island, Lagos
+215, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+216, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+217, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+218, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+219, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+220, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+221, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+222, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+223,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+224,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+225,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+226, Ikoyi,110000,2,2,3,Banana Island, Lagos
+227, Ikoyi,110000,2,2,3,Banana Island, Lagos
+228, Ikoyi,110000,2,2,3,Banana Island, Lagos
+229, Ikoyi,110000,2,2,3,Banana Island, Lagos
+230, Ikoyi,110000,2,2,3,Banana Island, Lagos
+231, Ikoyi,110000,2,2,3,Banana Island, Lagos
+232, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+233, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+234, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+235, Ikoyi,110000,2,2,3,Banana Island, Lagos
+236, Ikoyi,110000,2,2,3,Banana Island, Lagos
+237, Ikoyi,110000,2,2,3,Banana Island, Lagos
+238, Ikoyi,9500000,2,2,3,Parkview, Lagos
+239, Ikoyi,9500000,2,2,3,Parkview, Lagos
+240, Ikoyi,9500000,2,2,3,Parkview, Lagos
+241, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+242, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+243, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+244, Ikoyi,9500000,2,2,3,Parkview, Lagos
+245, Ikoyi,9500000,2,2,3,Parkview, Lagos
+246, Ikoyi,9500000,2,2,3,Parkview, Lagos
+247, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+248, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+249,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+250, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+251, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+252, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+253, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+254, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+255, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+256,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+257,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+258,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+259,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+260, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+261, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+262, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+263, Ikoyi,110000,2,2,3,Banana Island, Lagos
+264, Ikoyi,110000,2,2,3,Banana Island, Lagos
+265, Ikoyi,110000,2,2,3,Banana Island, Lagos
+266, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+267,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+268,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+269, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+270, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+271, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+272,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+273,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+274, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+275, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+276,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+277,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+278, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+279, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+280, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+281, Ikoyi,110000,2,2,3,Banana Island, Lagos
+282, Ikoyi,110000,2,2,3,Banana Island, Lagos
+283, Ikoyi,110000,2,2,3,Banana Island, Lagos
+284, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+285, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+286, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+287, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+288, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+289, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+290, Ikoyi,110000,2,2,3,Banana Island, Lagos
+291, Ikoyi,110000,2,2,3,Banana Island, Lagos
+292, Ikoyi,110000,2,2,3,Banana Island, Lagos
+293, Ikoyi,110000,2,2,3,Banana Island, Lagos
+294, Ikoyi,110000,2,2,3,Banana Island, Lagos
+295, Ikoyi,110000,2,2,3,Banana Island, Lagos
+296, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+297, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+298, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+299, Ikoyi,110000,2,2,3,Banana Island, Lagos
+300, Ikoyi,110000,2,2,3,Banana Island, Lagos
+301, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+302, Ikoyi,110000,2,2,3,Banana Island, Lagos
+303, Ikoyi,9500000,2,2,3,Parkview, Lagos
+304, Ikoyi,9500000,2,2,3,Parkview, Lagos
+305, Ikoyi,9500000,2,2,3,Parkview, Lagos
+306, Ikoyi,110000,2,2,3,Banana Island, Lagos
+307, Ikoyi,110000,2,2,3,Banana Island, Lagos
+308, Ikoyi,110000,2,2,3,Banana Island, Lagos
+309, Ikoyi,110000,2,2,3,Banana Island, Lagos
+310, Ikoyi,110000,2,2,3,Banana Island, Lagos
+311, Ikoyi,110000,2,2,3,Banana Island, Lagos
+312, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+313, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+314, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+315, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+316, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+317, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+318, Ikoyi,110000,2,2,3,Banana Island, Lagos
+319, Ikoyi,110000,2,2,3,Banana Island, Lagos
+320, Ikoyi,110000,2,2,3,Banana Island, Lagos
+321, Ikoyi,9500000,2,2,3,Parkview, Lagos
+322, Ikoyi,9500000,2,2,3,Parkview, Lagos
+323, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+324, Ikoyi,9500000,2,2,3,Parkview, Lagos
+325, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+326,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+327,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+328,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+329, Ikoyi,110000,2,2,3,Banana Island, Lagos
+330, Ikoyi,110000,2,2,3,Banana Island, Lagos
+331, Ikoyi,110000,2,2,3,Banana Island, Lagos
+332, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+333,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+334,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+335,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+336,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+337,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+338,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+339,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+340, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+341, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+342, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+343, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+344, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+345, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+346, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+347, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+348, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+349,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+350,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+351, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+352, Ikoyi,9500000,2,2,3,Parkview, Lagos
+353, Ikoyi,9500000,2,2,3,Parkview, Lagos
+354, Ikoyi,9500000,2,2,3,Parkview, Lagos
+355, Ikoyi,110000,2,2,3,Banana Island, Lagos
+356, Ikoyi,110000,2,2,3,Banana Island, Lagos
+357, Ikoyi,110000,2,2,3,Banana Island, Lagos
+358, Ikoyi,110000,2,2,3,Banana Island, Lagos
+359, Ikoyi,110000,2,2,3,Banana Island, Lagos
+360, Ikoyi,110000,2,2,3,Banana Island, Lagos
+361, Ikoyi,110000,2,2,3,Banana Island, Lagos
+362, Ikoyi,110000,2,2,3,Banana Island, Lagos
+363, Ikoyi,110000,2,2,3,Banana Island, Lagos
+364,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+365,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+366,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+367, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+368,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+369, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+370, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+371, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+372,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+373,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+374,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+375,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+376, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+377,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+378,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+379,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+380, Ikoyi,110000,2,2,3,Banana Island, Lagos
+381, Ikoyi,110000,2,2,3,Banana Island, Lagos
+382, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+383, Ikoyi,110000,2,2,3,Banana Island, Lagos
+384, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+385, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+386, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+387, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+388,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+389,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+390,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+391,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+392, Ikoyi,110000,2,2,3,Banana Island, Lagos
+393, Ikoyi,110000,2,2,3,Banana Island, Lagos
+394, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+395, Ikoyi,110000,2,2,3,Banana Island, Lagos
+396, Ikoyi,110000,2,2,3,Banana Island, Lagos
+397, Ikoyi,110000,2,2,3,Banana Island, Lagos
+398, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+399, Ikoyi,110000,2,2,3,Banana Island, Lagos
+400, Ikoyi,110000,2,2,3,Banana Island, Lagos
+401, Ikoyi,110000,2,2,3,Banana Island, Lagos
+402, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+403, Ikoyi,110000,2,2,3,Banana Island, Lagos
+404, Ikoyi,9500000,2,2,3,Parkview, Lagos
+405, Ikoyi,9500000,2,2,3,Parkview, Lagos
+406, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+407, Ikoyi,9500000,2,2,3,Parkview, Lagos
+408, Ikoyi,110000,2,2,3,Banana Island, Lagos
+409, Ikoyi,110000,2,2,3,Banana Island, Lagos
+410, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+411, Ikoyi,110000,2,2,3,Banana Island, Lagos
+412, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+413,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+414,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+415, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+416, Ikoyi,110000,2,2,3,Banana Island, Lagos
+417, Ikoyi,110000,2,2,3,Banana Island, Lagos
+418, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+419, Ikoyi,110000,2,2,3,Banana Island, Lagos
+420,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+421, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+422, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+423,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+424, Ikoyi,9500000,2,2,3,Parkview, Lagos
+425, Ikoyi,9500000,2,2,3,Parkview, Lagos
+426, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+427, Ikoyi,9500000,2,2,3,Parkview, Lagos
+428, Ikoyi,110000,2,2,3,Banana Island, Lagos
+429, Ikoyi,110000,2,2,3,Banana Island, Lagos
+430, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+431, Ikoyi,110000,2,2,3,Banana Island, Lagos
+432, Ikoyi,110000,2,2,3,Banana Island, Lagos
+433, Ikoyi,110000,2,2,3,Banana Island, Lagos
+434, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+435, Ikoyi,110000,2,2,3,Banana Island, Lagos
+436,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+437,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+438,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+439,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+440, Ikoyi,110000,2,2,3,Banana Island, Lagos
+441, Ikoyi,110000,2,2,3,Banana Island, Lagos
+442, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+443, Ikoyi,110000,2,2,3,Banana Island, Lagos
+444, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+445, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+446, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+447, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+448, Ikoyi,110000,2,2,3,Banana Island, Lagos
+449, Ikoyi,110000,2,2,3,Banana Island, Lagos
+450, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+451, Ikoyi,110000,2,2,3,Banana Island, Lagos
+452, Ikoyi,110000,2,2,3,Banana Island, Lagos
+453, Ikoyi,110000,2,2,3,Banana Island, Lagos
+454, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+455, Ikoyi,110000,2,2,3,Banana Island, Lagos
+456, Ikoyi,9500000,2,2,3,Parkview, Lagos
+457, Ikoyi,9500000,2,2,3,Parkview, Lagos
+458, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+459, Ikoyi,9500000,2,2,3,Parkview, Lagos
+460, Ikoyi,9500000,2,2,3,Parkview, Lagos
+461, Ikoyi,9500000,2,2,3,Parkview, Lagos
+462, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+463, Ikoyi,9500000,2,2,3,Parkview, Lagos
+464, Ikoyi,110000,2,2,3,Banana Island, Lagos
+465, Ikoyi,110000,2,2,3,Banana Island, Lagos
+466, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+467, Ikoyi,110000,2,2,3,Banana Island, Lagos
+468, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+469, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+470, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+471, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+472, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+473, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+474, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+475, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+476,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+477, Ikoyi,9500000,2,2,3,Parkview, Lagos
+478, Ikoyi,9500000,2,2,3,Parkview, Lagos
+479, Ikoyi,9500000,2,2,3,Parkview, Lagos
+480, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+481, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+482, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+483, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+484, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+485,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+486, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+487,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+488,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+489, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+490, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+491, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+492, Ikoyi,110000,2,2,3,Banana Island, Lagos
+493, Ikoyi,110000,2,2,3,Banana Island, Lagos
+494, Ikoyi,110000,2,2,3,Banana Island, Lagos
+495, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+496,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+497, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+498, Ikoyi,9500000,2,2,3,Parkview, Lagos
+499, Ikoyi,9500000,2,2,3,Parkview, Lagos
+500, Ikoyi,9500000,2,2,3,Parkview, Lagos
+501,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+502, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+503, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+504, Ikoyi,110000,2,2,3,Banana Island, Lagos
+505, Ikoyi,110000,2,2,3,Banana Island, Lagos
+506, Ikoyi,110000,2,2,3,Banana Island, Lagos
+507, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+508,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+509,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+510, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+511,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+512,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+513, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+514, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+515, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+516, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+517,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+518,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+519, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+520, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+521, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+522, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+523, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+524, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+525, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+526, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+527, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+528,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+529, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+530,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+531,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+532, Ikoyi,110000,2,2,3,Banana Island, Lagos
+533, Ikoyi,110000,2,2,3,Banana Island, Lagos
+534, Ikoyi,110000,2,2,3,Banana Island, Lagos
+535, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+536, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+537, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+538, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+539, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+540, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+541, Ikoyi,110000,2,2,3,Banana Island, Lagos
+542, Ikoyi,110000,2,2,3,Banana Island, Lagos
+543, Ikoyi,110000,2,2,3,Banana Island, Lagos
+544, Ikoyi,110000,2,2,3,Banana Island, Lagos
+545, Ikoyi,110000,2,2,3,Banana Island, Lagos
+546, Ikoyi,110000,2,2,3,Banana Island, Lagos
+547,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+548, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+549, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+550,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+551, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+552, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+553, Ikoyi,110000,2,2,3,Banana Island, Lagos
+554, Ikoyi,110000,2,2,3,Banana Island, Lagos
+555, Ikoyi,110000,2,2,3,Banana Island, Lagos
+556, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+557, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+558, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+559, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+560, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+561, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+562,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+563, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+564, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+565,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+566, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+567,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+568,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+569,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+570, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+571, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+572, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+573, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+574,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+575, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+576,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+577,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+578,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+579, Ikoyi,110000,2,2,3,Banana Island, Lagos
+580, Ikoyi,110000,2,2,3,Banana Island, Lagos
+581, Ikoyi,110000,2,2,3,Banana Island, Lagos
+582, Ikoyi,110000,2,2,3,Banana Island, Lagos
+583, Ikoyi,110000,2,2,3,Banana Island, Lagos
+584, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+585, Ikoyi,110000,2,2,3,Banana Island, Lagos
+586,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+587,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+588, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+589, Ikoyi,110000,2,2,3,Banana Island, Lagos
+590, Ikoyi,110000,2,2,3,Banana Island, Lagos
+591, Ikoyi,110000,2,2,3,Banana Island, Lagos
+592, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+593, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+594, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+595, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+596, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+597, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+598, Ikoyi,110000,2,2,3,Banana Island, Lagos
+599, Ikoyi,110000,2,2,3,Banana Island, Lagos
+600, Ikoyi,110000,2,2,3,Banana Island, Lagos
+601, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+602, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+603, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+604, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+605, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+606, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+607, Ikoyi,110000,2,2,3,Banana Island, Lagos
+608, Ikoyi,110000,2,2,3,Banana Island, Lagos
+609, Ikoyi,110000,2,2,3,Banana Island, Lagos
+610,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+611,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+612, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+613, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+614, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+615,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+616, Ikoyi,110000,2,2,3,Banana Island, Lagos
+617, Ikoyi,110000,2,2,3,Banana Island, Lagos
+618, Ikoyi,110000,2,2,3,Banana Island, Lagos
+619, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+620, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+621, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+622,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+623,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+624, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+625, Ikoyi,9500000,2,2,3,Parkview, Lagos
+626, Ikoyi,9500000,2,2,3,Parkview, Lagos
+627, Ikoyi,9500000,2,2,3,Parkview, Lagos
+628, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+629, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+630, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+631, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+632, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+633, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+634, Ikoyi,110000,2,2,3,Banana Island, Lagos
+635, Ikoyi,110000,2,2,3,Banana Island, Lagos
+636, Ikoyi,110000,2,2,3,Banana Island, Lagos
+637,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+638,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+639,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+640, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+641, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+642, Ikoyi,7000000,1,1,2,Mojisola Onikoyi Estate By, Lagos
+643, Ikoyi,110000,2,2,3,Banana Island, Lagos
+644, Ikoyi,110000,2,2,3,Banana Island, Lagos
+645, Ikoyi,110000,2,2,3,Banana Island, Lagos
+646, Ikoyi,110000,2,2,3,Banana Island, Lagos
+647, Ikoyi,110000,2,2,3,Banana Island, Lagos
+648, Ikoyi,110000,2,2,3,Banana Island, Lagos
+649, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+650,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+651,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+652, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+653,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+654,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+655, Ikoyi,110000,2,2,3,Banana Island, Lagos
+656, Ikoyi,110000,2,2,3,Banana Island, Lagos
+657, Ikoyi,110000,2,2,3,Banana Island, Lagos
+658,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+659,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+660, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+661, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+662, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+663, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+664, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+665, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+666, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+667, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+668, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+669, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+670, Ikoyi,110000,2,2,3,Banana Island, Lagos
+671, Ikoyi,110000,2,2,3,Banana Island, Lagos
+672, Ikoyi,110000,2,2,3,Banana Island, Lagos
+673,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+674, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+675, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+676,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+677,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+678,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+679, Ikoyi,9500000,2,2,3,Parkview, Lagos
+680, Ikoyi,9500000,2,2,3,Parkview, Lagos
+681, Ikoyi,9500000,2,2,3,Parkview, Lagos
+682, Ikoyi,110000,2,2,3,Banana Island, Lagos
+683, Ikoyi,110000,2,2,3,Banana Island, Lagos
+684, Ikoyi,110000,2,2,3,Banana Island, Lagos
+685, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+686, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+687, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+688, Ikoyi,110000,2,2,3,Banana Island, Lagos
+689, Ikoyi,110000,2,2,3,Banana Island, Lagos
+690, Ikoyi,110000,2,2,3,Banana Island, Lagos
+691,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+692,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+693, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+694,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+695, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+696,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+697, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+698,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+699,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+700, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+701, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+702,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+703,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+704,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+705, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+706, Ikoyi,110000,2,2,3,Banana Island, Lagos
+707, Ikoyi,110000,2,2,3,Banana Island, Lagos
+708, Ikoyi,110000,2,2,3,Banana Island, Lagos
+709, Ikoyi,110000,2,2,3,Banana Island, Lagos
+710, Ikoyi,110000,2,2,3,Banana Island, Lagos
+711, Ikoyi,110000,2,2,3,Banana Island, Lagos
+712,Ikoyi,55000,No Info,No Info,No Info,Ikoyi, Lagos
+713,Ikoyi,55000,No Info,No Info,No Info,Ikoyi, Lagos
+714,Ikoyi,55000,No Info,No Info,No Info,Ikoyi, Lagos
+715, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+716, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+717, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+718, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+719, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+720, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+721, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+722, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+723, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+724,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+725, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+726,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+727,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+728, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+729,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+730, Ikoyi,110000,2,2,3,Banana Island, Lagos
+731, Ikoyi,110000,2,2,3,Banana Island, Lagos
+732, Ikoyi,110000,2,2,3,Banana Island, Lagos
+733, Ikoyi,110000,2,2,3,Banana Island, Lagos
+734, Ikoyi,110000,2,2,3,Banana Island, Lagos
+735, Ikoyi,110000,2,2,3,Banana Island, Lagos
+736,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+737,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+738,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+739, Ikoyi,110000,2,2,3,Banana Island, Lagos
+740, Ikoyi,110000,2,2,3,Banana Island, Lagos
+741, Ikoyi,110000,2,2,3,Banana Island, Lagos
+742, Ikoyi,110000,2,2,3,Banana Island, Lagos
+743, Ikoyi,110000,2,2,3,Banana Island, Lagos
+744, Ikoyi,110000,2,2,3,Banana Island, Lagos
+745, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+746, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+747, Ikoyi,5500000,1,1,1,Mojisola Onikoyi Estate Off Banana Island Road, Lagos
+748, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+749, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+750, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+751, Ikoyi,110000,2,2,3,Banana Island, Lagos
+752, Ikoyi,110000,2,2,3,Banana Island, Lagos
+753, Ikoyi,110000,2,2,3,Banana Island, Lagos
+754, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+755, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+756, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+757, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+758, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+759, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+760, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+761,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+762,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+763, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+764,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+765,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+766,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+767, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+768, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+769, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+770, Ikoyi,110000,2,2,3,Banana Island, Lagos
+771, Ikoyi,110000,2,2,3,Banana Island, Lagos
+772, Ikoyi,110000,2,2,3,Banana Island, Lagos
+773, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+774, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+775,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+776, Ikoyi,110000,2,2,3,Banana Island, Lagos
+777, Ikoyi,110000,2,2,3,Banana Island, Lagos
+778, Ikoyi,110000,2,2,3,Banana Island, Lagos
+779,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+780, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+781,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+782, Ikoyi,9500000,2,2,3,Parkview, Lagos
+783, Ikoyi,9500000,2,2,3,Parkview, Lagos
+784, Ikoyi,9500000,2,2,3,Parkview, Lagos
+785, Ikoyi,9500000,2,2,3,Parkview, Lagos
+786, Ikoyi,9500000,2,2,3,Parkview, Lagos
+787, Ikoyi,9500000,2,2,3,Parkview, Lagos
+788, Ikoyi,110000,2,2,3,Banana Island, Lagos
+789, Ikoyi,110000,2,2,3,Banana Island, Lagos
+790, Ikoyi,110000,2,2,3,Banana Island, Lagos
+791, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+792, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+793, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+794, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+795, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+796, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+797, Ikoyi,110000,2,2,3,Banana Island, Lagos
+798, Ikoyi,110000,2,2,3,Banana Island, Lagos
+799, Ikoyi,110000,2,2,3,Banana Island, Lagos
+800, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+801, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+802, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+803, Ikoyi,110000,2,2,3,Banana Island, Lagos
+804, Ikoyi,110000,2,2,3,Banana Island, Lagos
+805, Ikoyi,110000,2,2,3,Banana Island, Lagos
+806, Ikoyi,110000,2,2,3,Banana Island, Lagos
+807, Ikoyi,110000,2,2,3,Banana Island, Lagos
+808, Ikoyi,110000,2,2,3,Banana Island, Lagos
+809,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+810,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+811, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+812, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+813,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+814, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+815,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+816,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+817,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+818, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+819, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+820, Ikoyi,310000000,3,4,4,Off Club Road, Lagos
+821, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+822, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+823,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+824, Ikoyi,110000,2,2,3,Banana Island, Lagos
+825, Ikoyi,110000,2,2,3,Banana Island, Lagos
+826, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+827, Ikoyi,110000,2,2,3,Banana Island, Lagos
+828, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+829,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+830,Ikoyi,600000,No Info,No Info,No Info,Ikoyi, Lagos
+831, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+832,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+833, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+834, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+835,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+836, Ikoyi,9500000,2,2,3,Parkview, Lagos
+837, Ikoyi,9500000,2,2,3,Parkview, Lagos
+838, Ikoyi,9500000,No Info,No Info,No Info,Parkview, Lagos
+839, Ikoyi,9500000,2,2,3,Parkview, Lagos
+840,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+841, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+842, Ikoyi,320000000,No Info,No Info,No Info,Foreshore Estate Phase One, Lagos
+843,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+844, Ikoyi,110000,2,2,3,Banana Island, Lagos
+845, Ikoyi,110000,2,2,3,Banana Island, Lagos
+846, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+847, Ikoyi,110000,2,2,3,Banana Island, Lagos
+848, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+849, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+850, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+851, Ikoyi,9500000,2,2,3,Parkview, Lagos
+852, Ikoyi,9500000,2,2,3,Parkview, Lagos
+853, Ikoyi,9500000,2,2,3,Parkview, Lagos
+854,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+855, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+856, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+857,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+858,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+859,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+860,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+861,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+862,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+863, Ikoyi,110000,2,2,3,Banana Island, Lagos
+864, Ikoyi,110000,2,2,3,Banana Island, Lagos
+865, Ikoyi,110000,2,2,3,Banana Island, Lagos
+866, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+867,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+868, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+869, Ikoyi,9500000,2,2,3,Parkview, Lagos
+870, Ikoyi,9500000,2,2,3,Parkview, Lagos
+871, Ikoyi,9500000,2,2,3,Parkview, Lagos
+872, Ikoyi,110000,2,2,3,Banana Island, Lagos
+873, Ikoyi,110000,2,2,3,Banana Island, Lagos
+874, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+875, Ikoyi,110000,2,2,3,Banana Island, Lagos
+876, Ikoyi,110000,2,2,3,Banana Island, Lagos
+877, Ikoyi,110000,2,2,3,Banana Island, Lagos
+878, Ikoyi,110000,No Info,No Info,No Info,Banana Island, Lagos
+879, Ikoyi,110000,2,2,3,Banana Island, Lagos
+880,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+881,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+882, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+883, Ikoyi,110000,2,2,3,Banana Island, Lagos
+884, Ikoyi,110000,2,2,3,Banana Island, Lagos
+885, Ikoyi,110000,2,2,3,Banana Island, Lagos
+886, Ikoyi,110000,2,2,3,Banana Island, Lagos
+887, Ikoyi,110000,2,2,3,Banana Island, Lagos
+888, Ikoyi,110000,2,2,3,Banana Island, Lagos
+889, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+890, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+891, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+892, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+893,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+894, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+895, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+896,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+897,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+898, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+899, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+900,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+901, Ikoyi,320000000,3,3,4,Foreshore Estate Phase One, Lagos
+902,Ikoyi,600000,4,4,5,Ikoyi, Lagos
+903,Ikoyi,600000,4,4,5,Ikoyi, Lagos

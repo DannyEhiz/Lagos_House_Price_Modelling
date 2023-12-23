@@ -1,0 +1,841 @@
+,Location,Price,Bedroom,Bathrooms,Toilet,Location Area,State
+0, Yaba,700000,No Info,No Info,No Info,Close To 3rd Mainland Bridge, Lagos
+1, Yaba,700000,No Info,No Info,No Info,Close To 3rd Mainland Bridge, Lagos
+2, Yaba,700000,No Info,No Info,No Info,Close To 3rd Mainland Bridge, Lagos
+3, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+4, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+5, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+6, Yaba,1000000,1,1,1,Iwaya, Lagos
+7, Yaba,1000000,1,1,1,Iwaya, Lagos
+8, Yaba,1000000,1,1,1,Iwaya, Lagos
+9, Yaba,1000000,1,1,1,Iwaya, Lagos
+10, Yaba,1000000,1,1,1,Iwaya, Lagos
+11, Yaba,1000000,1,1,1,Iwaya, Lagos
+12, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+13, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+14, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+15, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+16, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+17, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+18, Yaba,1500000,3,2,2,Onike, Lagos
+19, Yaba,1500000,3,2,2,Onike, Lagos
+20, Yaba,1500000,3,2,2,Onike, Lagos
+21, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+22, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+23, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+24, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+25, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+26, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+27, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+28, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+29, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+30, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+31, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+32, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+33, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+34, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+35, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+36, Yaba,1000000,1,1,1,Iwaya, Lagos
+37, Yaba,1000000,1,1,1,Iwaya, Lagos
+38, Yaba,1000000,1,1,1,Iwaya, Lagos
+39, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+40, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+41, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+42, Yaba,1000000,1,1,1,Iwaya, Lagos
+43, Yaba,1000000,1,1,1,Iwaya, Lagos
+44, Yaba,1000000,1,1,1,Iwaya, Lagos
+45, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+46, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+47, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+48, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+49, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+50, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+51, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+52, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+53, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+54, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+55, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+56, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+57, Yaba,4000000,3,3,4,Osholanke, Lagos
+58, Yaba,4000000,3,3,4,Osholanke, Lagos
+59, Yaba,4000000,3,3,4,Osholanke, Lagos
+60, Yaba,700000,3,3,4,Alagomeji, Lagos
+61, Yaba,700000,3,3,4,Alagomeji, Lagos
+62, Yaba,700000,3,3,4,Alagomeji, Lagos
+63, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+64, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+65, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+66, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+67, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+68, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+69, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+70, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+71, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+72, Yaba,1000000,1,1,1,Iwaya, Lagos
+73, Yaba,1000000,1,1,1,Iwaya, Lagos
+74, Yaba,1000000,1,1,1,Iwaya, Lagos
+75, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+76, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+77, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+78, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+79, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+80, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+81, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+82, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+83, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+84, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+85, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+86, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+87, Yaba,4000000,3,3,4,Osholanke, Lagos
+88, Yaba,4000000,3,3,4,Osholanke, Lagos
+89, Yaba,4000000,3,3,4,Osholanke, Lagos
+90, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+91, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+92, Yaba,800000,1,2,2,Off Herbert Macaulay Way, Lagos
+93, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+94, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+95, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+96, Yaba,850000,1,1,1,Onike, Lagos
+97, Yaba,850000,1,1,1,Onike, Lagos
+98, Yaba,850000,1,1,1,Onike, Lagos
+99, Yaba,1300000,1,2,2,Waec, Lagos
+100, Yaba,1300000,1,2,2,Waec, Lagos
+101, Yaba,1300000,1,2,2,Waec, Lagos
+102, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+103, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+104, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+105, Yaba,85000,2,1,1,Onike, Lagos
+106, Yaba,85000,2,1,1,Onike, Lagos
+107, Yaba,85000,2,1,1,Onike, Lagos
+108, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+109, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+110, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+111, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+112, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+113, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+114, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+115, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+116, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+117, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+118, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+119, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+120, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+121, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+122, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+123, Yaba,450000,1,1,1,Community Road, Lagos
+124, Yaba,450000,1,1,1,Community Road, Lagos
+125, Yaba,450000,1,1,1,Community Road, Lagos
+126, Yaba,450000,1,1,1,Community Road, Lagos
+127, Yaba,450000,1,1,1,Community Road, Lagos
+128, Yaba,450000,1,1,1,Community Road, Lagos
+129, Yaba,85000,2,1,1,Onike, Lagos
+130, Yaba,85000,2,1,1,Onike, Lagos
+131, Yaba,85000,2,1,1,Onike, Lagos
+132, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+133, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+134, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+135, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+136, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+137, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+138, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+139, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+140, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+141, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+142, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+143, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+144, Yaba,700000,No Info,No Info,No Info,Off Fola Agoro Road, Lagos
+145, Yaba,700000,No Info,No Info,No Info,Off Fola Agoro Road, Lagos
+146, Yaba,700000,No Info,No Info,No Info,Off Fola Agoro Road, Lagos
+147, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+148, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+149, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+150, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+151, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+152, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+153, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+154, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+155, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+156, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+157, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+158, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+159, Yaba,1000000,1,1,1,Iwaya, Lagos
+160, Yaba,1000000,1,1,1,Iwaya, Lagos
+161, Yaba,1000000,1,1,1,Iwaya, Lagos
+162, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+163, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+164, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+165, Yaba,700000,3,3,4,Alagomeji, Lagos
+166, Yaba,700000,3,3,4,Alagomeji, Lagos
+167, Yaba,700000,3,3,4,Alagomeji, Lagos
+168, Yaba,1200000,1,1,2,Alagomeji, Lagos
+169, Yaba,1200000,1,1,2,Alagomeji, Lagos
+170, Yaba,1200000,1,1,2,Alagomeji, Lagos
+171, Yaba,700000,3,3,4,Alagomeji, Lagos
+172, Yaba,700000,3,3,4,Alagomeji, Lagos
+173, Yaba,700000,3,3,4,Alagomeji, Lagos
+174, Yaba,1500000,3,2,2,Onike, Lagos
+175, Yaba,1500000,3,2,2,Onike, Lagos
+176, Yaba,1500000,3,2,2,Onike, Lagos
+177, Yaba,1500000,3,2,2,Onike, Lagos
+178, Yaba,1500000,3,2,2,Onike, Lagos
+179, Yaba,1500000,3,2,2,Onike, Lagos
+180, Yaba,1000000,1,1,1,Iwaya, Lagos
+181, Yaba,1000000,1,1,1,Iwaya, Lagos
+182, Yaba,1000000,1,1,1,Iwaya, Lagos
+183, Yaba,85000,2,1,1,Onike, Lagos
+184, Yaba,85000,2,1,1,Onike, Lagos
+185, Yaba,85000,2,1,1,Onike, Lagos
+186, Yaba,85000,2,1,1,Onike, Lagos
+187, Yaba,85000,2,1,1,Onike, Lagos
+188, Yaba,85000,2,1,1,Onike, Lagos
+189, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+190, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+191, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+192, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+193, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+194, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+195, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+196, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+197, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+198, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+199, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+200, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+201, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+202, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+203, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+204, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+205, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+206, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+207, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+208, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+209, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+210, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+211, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+212, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+213, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+214, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+215, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+216, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+217, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+218, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+219, Yaba,700000,3,3,4,Alagomeji, Lagos
+220, Yaba,700000,3,3,4,Alagomeji, Lagos
+221, Yaba,700000,3,3,4,Alagomeji, Lagos
+222, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+223, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+224, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+225, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+226, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+227, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+228, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+229, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+230, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+231, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+232, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+233, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+234, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+235, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+236, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+237, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+238, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+239, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+240, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+241, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+242, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+243, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+244, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+245, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+246, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+247, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+248, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+249, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+250, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+251, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+252, Yaba,1000000,1,1,2,Adekunle, Lagos
+253, Yaba,1000000,1,1,2,Adekunle, Lagos
+254, Yaba,1000000,1,1,2,Adekunle, Lagos
+255, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+256, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+257, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+258, Yaba,1300000,1,2,2,Waec, Lagos
+259, Yaba,1300000,1,2,2,Waec, Lagos
+260, Yaba,1300000,1,2,2,Waec, Lagos
+261, Yaba,1500000,3,2,2,Onike, Lagos
+262, Yaba,1500000,3,2,2,Onike, Lagos
+263, Yaba,1500000,3,2,2,Onike, Lagos
+264, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+265, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+266, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+267, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+268, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+269, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+270, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+271, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+272, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+273, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+274, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+275, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+276, Yaba,1000000,1,1,1,Iwaya, Lagos
+277, Yaba,1000000,1,1,1,Iwaya, Lagos
+278, Yaba,1000000,1,1,1,Iwaya, Lagos
+279, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+280, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+281, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+282, Yaba,1200000,1,1,2,Alagomeji, Lagos
+283, Yaba,1200000,1,1,2,Alagomeji, Lagos
+284, Yaba,1200000,1,1,2,Alagomeji, Lagos
+285, Yaba,700000,3,3,4,Alagomeji, Lagos
+286, Yaba,700000,3,3,4,Alagomeji, Lagos
+287, Yaba,700000,3,3,4,Alagomeji, Lagos
+288, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+289, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+290, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+291, Yaba,700000,3,3,4,Alagomeji, Lagos
+292, Yaba,700000,3,3,4,Alagomeji, Lagos
+293, Yaba,700000,3,3,4,Alagomeji, Lagos
+294, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+295, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+296, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+297, Yaba,700000,3,3,4,Alagomeji, Lagos
+298, Yaba,700000,3,3,4,Alagomeji, Lagos
+299, Yaba,700000,3,3,4,Alagomeji, Lagos
+300, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+301, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+302, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+303, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+304, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+305, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+306, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+307, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+308, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+309, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+310, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+311, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+312, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+313, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+314, Yaba,700000,No Info,No Info,No Info,Alagomeji, Lagos
+315, Yaba,700000,3,3,4,Alagomeji, Lagos
+316, Yaba,700000,3,3,4,Alagomeji, Lagos
+317, Yaba,700000,3,3,4,Alagomeji, Lagos
+318, Yaba,1000000,1,1,1,Iwaya, Lagos
+319, Yaba,1000000,1,1,1,Iwaya, Lagos
+320, Yaba,1000000,1,1,1,Iwaya, Lagos
+321, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+322, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+323, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+324, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+325, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+326, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+327, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+328, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+329, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+330, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+331, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+332, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+333, Yaba,700000,3,3,4,Alagomeji, Lagos
+334, Yaba,700000,3,3,4,Alagomeji, Lagos
+335, Yaba,700000,3,3,4,Alagomeji, Lagos
+336, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+337, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+338, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+339, Yaba,1000000,1,1,1,Iwaya, Lagos
+340, Yaba,1000000,1,1,1,Iwaya, Lagos
+341, Yaba,1000000,1,1,1,Iwaya, Lagos
+342, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+343, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+344, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+345, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+346, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+347, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+348, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+349, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+350, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+351, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+352, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+353, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+354, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+355, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+356, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+357, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+358, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+359, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+360, Yaba,700000,3,3,4,Alagomeji, Lagos
+361, Yaba,700000,3,3,4,Alagomeji, Lagos
+362, Yaba,700000,3,3,4,Alagomeji, Lagos
+363, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+364, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+365, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+366, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+367, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+368, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+369, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+370, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+371, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+372, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+373, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+374, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+375, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+376, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+377, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+378, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+379, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+380, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+381, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+382, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+383, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+384, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+385, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+386, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+387, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+388, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+389, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+390, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+391, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+392, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+393, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+394, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+395, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+396, Yaba,450000,1,1,1,Community Road, Lagos
+397, Yaba,450000,1,1,1,Community Road, Lagos
+398, Yaba,450000,1,1,1,Community Road, Lagos
+399, Yaba,700000,3,3,4,Alagomeji, Lagos
+400, Yaba,700000,3,3,4,Alagomeji, Lagos
+401, Yaba,700000,3,3,4,Alagomeji, Lagos
+402, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+403, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+404, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+405, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+406, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+407, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+408, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+409, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+410, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+411, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+412, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+413, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+414, Yaba,1000000,1,1,1,Iwaya, Lagos
+415, Yaba,1000000,1,1,1,Iwaya, Lagos
+416, Yaba,1000000,1,1,1,Iwaya, Lagos
+417, Yaba,1500000,3,2,2,Onike, Lagos
+418, Yaba,1500000,3,2,2,Onike, Lagos
+419, Yaba,1500000,3,2,2,Onike, Lagos
+420, Yaba,700000,3,3,4,Alagomeji, Lagos
+421, Yaba,700000,3,3,4,Alagomeji, Lagos
+422, Yaba,700000,3,3,4,Alagomeji, Lagos
+423, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+424, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+425, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+426, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+427, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+428, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+429, Yaba,1000000,1,1,1,Iwaya, Lagos
+430, Yaba,1000000,1,1,1,Iwaya, Lagos
+431, Yaba,1000000,1,1,1,Iwaya, Lagos
+432, Yaba,1000000,1,1,1,Iwaya, Lagos
+433, Yaba,1000000,1,1,1,Iwaya, Lagos
+434, Yaba,1000000,1,1,1,Iwaya, Lagos
+435, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+436, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+437, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+438, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+439, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+440, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+441, Yaba,300000,No Info,No Info,No Info,Abeokuta Street, Lagos
+442, Yaba,300000,No Info,No Info,No Info,Abeokuta Street, Lagos
+443, Yaba,300000,No Info,No Info,No Info,Abeokuta Street, Lagos
+444, Yaba,1300000,1,2,2,Waec, Lagos
+445, Yaba,1300000,1,2,2,Waec, Lagos
+446, Yaba,1300000,1,2,2,Waec, Lagos
+447, Yaba,1200000,1,1,2,Alagomeji, Lagos
+448, Yaba,1200000,1,1,2,Alagomeji, Lagos
+449, Yaba,1200000,1,1,2,Alagomeji, Lagos
+450, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+451, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+452, Yaba,1500000,2,1,1,Ebute Metta West, Lagos
+453, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+454, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+455, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+456, Yaba,85000,2,1,1,Onike, Lagos
+457, Yaba,85000,2,1,1,Onike, Lagos
+458, Yaba,85000,2,1,1,Onike, Lagos
+459, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+460, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+461, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+462, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+463, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+464, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+465, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+466, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+467, Yaba,900000,No Info,No Info,No Info,Abule Oja, Lagos
+468, Yaba,1500000,3,2,2,Onike, Lagos
+469, Yaba,1500000,3,2,2,Onike, Lagos
+470, Yaba,1500000,3,2,2,Onike, Lagos
+471, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+472, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+473, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+474, Yaba,450000,1,1,1,Community Road, Lagos
+475, Yaba,450000,1,1,1,Community Road, Lagos
+476, Yaba,450000,1,1,1,Community Road, Lagos
+477, Yaba,4000000,3,3,4,Osholanke, Lagos
+478, Yaba,4000000,3,3,4,Osholanke, Lagos
+479, Yaba,4000000,3,3,4,Osholanke, Lagos
+480, Yaba,4000000,3,3,4,Osholanke, Lagos
+481, Yaba,4000000,3,3,4,Osholanke, Lagos
+482, Yaba,4000000,3,3,4,Osholanke, Lagos
+483, Yaba,700000,No Info,No Info,No Info,Abule Oja, Lagos
+484, Yaba,700000,No Info,No Info,No Info,Abule Oja, Lagos
+485, Yaba,700000,No Info,No Info,No Info,Abule Oja, Lagos
+486, Yaba,700000,3,3,4,Alagomeji, Lagos
+487, Yaba,700000,3,3,4,Alagomeji, Lagos
+488, Yaba,700000,3,3,4,Alagomeji, Lagos
+489, Yaba,4000000,3,3,4,Osholanke, Lagos
+490, Yaba,4000000,3,3,4,Osholanke, Lagos
+491, Yaba,4000000,3,3,4,Osholanke, Lagos
+492, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+493, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+494, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+495, Yaba,450000,1,1,1,Community Road, Lagos
+496, Yaba,450000,1,1,1,Community Road, Lagos
+497, Yaba,450000,1,1,1,Community Road, Lagos
+498, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+499, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+500, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+501, Yaba,1000000,1,1,1,Iwaya, Lagos
+502, Yaba,1000000,1,1,1,Iwaya, Lagos
+503, Yaba,1000000,1,1,1,Iwaya, Lagos
+504, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+505, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+506, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+507, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+508, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+509, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+510, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+511, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+512, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+513, Yaba,1500000,3,2,2,Onike, Lagos
+514, Yaba,1500000,3,2,2,Onike, Lagos
+515, Yaba,1500000,3,2,2,Onike, Lagos
+516, Yaba,1500000,3,2,2,Onike, Lagos
+517, Yaba,1500000,3,2,2,Onike, Lagos
+518, Yaba,1500000,3,2,2,Onike, Lagos
+519, Yaba,1500000,3,2,2,Onike, Lagos
+520, Yaba,1500000,3,2,2,Onike, Lagos
+521, Yaba,1500000,3,2,2,Onike, Lagos
+522, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+523, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+524, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+525, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+526, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+527, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+528, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+529, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+530, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+531, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+532, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+533, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+534, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+535, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+536, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+537, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+538, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+539, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+540, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+541, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+542, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+543, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+544, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+545, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+546, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+547, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+548, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+549, Yaba,1000000,1,1,1,Iwaya, Lagos
+550, Yaba,1000000,1,1,1,Iwaya, Lagos
+551, Yaba,1000000,1,1,1,Iwaya, Lagos
+552, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+553, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+554, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+555, Yaba,85000,2,1,1,Onike, Lagos
+556, Yaba,85000,2,1,1,Onike, Lagos
+557, Yaba,85000,2,1,1,Onike, Lagos
+558, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+559, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+560, Yaba,2500000,1,3,4,Off Folagoro Road, Lagos
+561, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+562, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+563, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+564, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+565, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+566, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+567, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+568, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+569, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+570, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+571, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+572, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+573, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+574, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+575, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+576, Yaba,1000000,1,1,1,Iwaya, Lagos
+577, Yaba,1000000,1,1,1,Iwaya, Lagos
+578, Yaba,1000000,1,1,1,Iwaya, Lagos
+579, Yaba,1300000,1,2,2,Waec, Lagos
+580, Yaba,1300000,1,2,2,Waec, Lagos
+581, Yaba,1300000,1,2,2,Waec, Lagos
+582, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+583, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+584, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+585, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+586, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+587, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+588, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+589, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+590, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+591, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+592, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+593, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+594, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+595, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+596, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+597, Yaba,1000000,1,1,1,Iwaya, Lagos
+598, Yaba,1000000,1,1,1,Iwaya, Lagos
+599, Yaba,1000000,1,1,1,Iwaya, Lagos
+600, Yaba,1000000,1,1,1,Iwaya, Lagos
+601, Yaba,1000000,1,1,1,Iwaya, Lagos
+602, Yaba,1000000,1,1,1,Iwaya, Lagos
+603, Yaba,700000,3,3,4,Alagomeji, Lagos
+604, Yaba,700000,3,3,4,Alagomeji, Lagos
+605, Yaba,700000,3,3,4,Alagomeji, Lagos
+606, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+607, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+608, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+609, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+610, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+611, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+612, Yaba,1300000,1,2,2,Waec, Lagos
+613, Yaba,1300000,1,2,2,Waec, Lagos
+614, Yaba,1300000,1,2,2,Waec, Lagos
+615, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+616, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+617, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+618, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+619, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+620, Yaba,550000,No Info,No Info,No Info,Off Morroco, Lagos
+621, Yaba,450000,1,1,1,Community Road, Lagos
+622, Yaba,450000,1,1,1,Community Road, Lagos
+623, Yaba,450000,1,1,1,Community Road, Lagos
+624, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+625, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+626, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+627, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+628, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+629, Yaba,1200000,1,1,2,Off Yaba Tech Back Gate, Lagos
+630, Yaba,1000000,1,1,1,Iwaya, Lagos
+631, Yaba,1000000,1,1,1,Iwaya, Lagos
+632, Yaba,1000000,1,1,1,Iwaya, Lagos
+633, Yaba,700000,3,3,4,Alagomeji, Lagos
+634, Yaba,700000,3,3,4,Alagomeji, Lagos
+635, Yaba,700000,3,3,4,Alagomeji, Lagos
+636, Yaba,1300000,1,2,2,Waec, Lagos
+637, Yaba,1300000,1,2,2,Waec, Lagos
+638, Yaba,1300000,1,2,2,Waec, Lagos
+639, Yaba,4000000,3,3,4,Osholanke, Lagos
+640, Yaba,4000000,3,3,4,Osholanke, Lagos
+641, Yaba,4000000,3,3,4,Osholanke, Lagos
+642, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+643, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+644, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+645, Yaba,1300000,1,2,2,Waec, Lagos
+646, Yaba,1300000,1,2,2,Waec, Lagos
+647, Yaba,1300000,1,2,2,Waec, Lagos
+648, Yaba,1000000,1,1,1,Iwaya, Lagos
+649, Yaba,1000000,1,1,1,Iwaya, Lagos
+650, Yaba,1000000,1,1,1,Iwaya, Lagos
+651, Yaba,1000000,1,1,1,Iwaya, Lagos
+652, Yaba,1000000,1,1,1,Iwaya, Lagos
+653, Yaba,1000000,1,1,1,Iwaya, Lagos
+654, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+655, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+656, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+657, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+658, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+659, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+660, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+661, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+662, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+663, Yaba,700000,3,3,4,Alagomeji, Lagos
+664, Yaba,700000,3,3,4,Alagomeji, Lagos
+665, Yaba,700000,3,3,4,Alagomeji, Lagos
+666, Yaba,1000000,1,1,1,Iwaya, Lagos
+667, Yaba,1000000,1,1,1,Iwaya, Lagos
+668, Yaba,1000000,1,1,1,Iwaya, Lagos
+669, Yaba,1000000,1,1,1,Iwaya, Lagos
+670, Yaba,1000000,1,1,1,Iwaya, Lagos
+671, Yaba,1000000,1,1,1,Iwaya, Lagos
+672, Yaba,1000000,1,1,1,Iwaya, Lagos
+673, Yaba,1000000,1,1,1,Iwaya, Lagos
+674, Yaba,1000000,1,1,1,Iwaya, Lagos
+675, Yaba,700000,3,3,4,Alagomeji, Lagos
+676, Yaba,700000,3,3,4,Alagomeji, Lagos
+677, Yaba,700000,3,3,4,Alagomeji, Lagos
+678, Yaba,1200000,1,1,2,Alagomeji, Lagos
+679, Yaba,1200000,1,1,2,Alagomeji, Lagos
+680, Yaba,1200000,1,1,2,Alagomeji, Lagos
+681, Yaba,1300000,1,2,2,Waec, Lagos
+682, Yaba,1300000,1,2,2,Waec, Lagos
+683, Yaba,1300000,1,2,2,Waec, Lagos
+684, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+685, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+686, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+687, Yaba,1000000,1,1,1,Iwaya, Lagos
+688, Yaba,1000000,1,1,1,Iwaya, Lagos
+689, Yaba,1000000,1,1,1,Iwaya, Lagos
+690, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+691, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+692, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+693, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+694, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+695, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+696, Yaba,1200000,1,1,2,Alagomeji, Lagos
+697, Yaba,1200000,1,1,2,Alagomeji, Lagos
+698, Yaba,1200000,1,1,2,Alagomeji, Lagos
+699, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+700, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+701, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+702, Yaba,1000000,1,1,1,Iwaya, Lagos
+703, Yaba,1000000,1,1,1,Iwaya, Lagos
+704, Yaba,1000000,1,1,1,Iwaya, Lagos
+705, Yaba,450000,1,1,1,Community Road, Lagos
+706, Yaba,450000,1,1,1,Community Road, Lagos
+707, Yaba,450000,1,1,1,Community Road, Lagos
+708, Yaba,1300000,1,2,2,Waec, Lagos
+709, Yaba,1300000,1,2,2,Waec, Lagos
+710, Yaba,1300000,1,2,2,Waec, Lagos
+711, Yaba,4000000,3,3,4,Osholanke, Lagos
+712, Yaba,4000000,3,3,4,Osholanke, Lagos
+713, Yaba,4000000,3,3,4,Osholanke, Lagos
+714, Yaba,1500000,1,1,2,Ebute Metta, Lagos
+715, Yaba,1500000,1,1,2,Ebute Metta, Lagos
+716, Yaba,1500000,1,1,2,Ebute Metta, Lagos
+717, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+718, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+719, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+720, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+721, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+722, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+723, Yaba,1000000,1,1,2,Adekunle, Lagos
+724, Yaba,1000000,1,1,2,Adekunle, Lagos
+725, Yaba,1000000,1,1,2,Adekunle, Lagos
+726, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+727, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+728, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+729, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+730, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+731, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+732, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+733, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+734, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+735, Yaba,900000,1,1,1,Abule Oja, Lagos
+736, Yaba,900000,1,1,1,Abule Oja, Lagos
+737, Yaba,900000,1,1,1,Abule Oja, Lagos
+738, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+739, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+740, Yaba,600000,No Info,No Info,No Info,Waec Office, Lagos
+741, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+742, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+743, Yaba,500000,No Info,No Info,No Info,Ajayi Onitiri, Lagos
+744, Yaba,1300000,1,2,2,Waec, Lagos
+745, Yaba,1300000,1,2,2,Waec, Lagos
+746, Yaba,1300000,1,2,2,Waec, Lagos
+747, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+748, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+749, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+750, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+751, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+752, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+753, Yaba,1200000,1,1,2,Alagomeji, Lagos
+754, Yaba,1200000,1,1,2,Alagomeji, Lagos
+755, Yaba,1200000,1,1,2,Alagomeji, Lagos
+756, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+757, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+758, Yaba,600000,No Info,No Info,No Info,Sabo, Lagos
+759, Yaba,700000,3,3,4,Alagomeji, Lagos
+760, Yaba,700000,3,3,4,Alagomeji, Lagos
+761, Yaba,700000,3,3,4,Alagomeji, Lagos
+762, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+763, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+764, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+765, Yaba,1000000,1,1,1,Iwaya, Lagos
+766, Yaba,1000000,1,1,1,Iwaya, Lagos
+767, Yaba,1000000,1,1,1,Iwaya, Lagos
+768, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+769, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+770, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+771, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+772, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+773, Yaba,700000,2,1,1,Close To 3rd Mainland Bridge, Lagos
+774, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+775, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+776, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+777, Yaba,85000,2,1,1,Onike, Lagos
+778, Yaba,85000,2,1,1,Onike, Lagos
+779, Yaba,85000,2,1,1,Onike, Lagos
+780, Yaba,700000,3,3,4,Alagomeji, Lagos
+781, Yaba,700000,3,3,4,Alagomeji, Lagos
+782, Yaba,700000,3,3,4,Alagomeji, Lagos
+783, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+784, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+785, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+786, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+787, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+788, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+789, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+790, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+791, Yaba,650000,1,1,1,Off Mfm International Headquarters, Lagos
+792, Yaba,1000000,1,1,1,Iwaya, Lagos
+793, Yaba,1000000,1,1,1,Iwaya, Lagos
+794, Yaba,1000000,1,1,1,Iwaya, Lagos
+795, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+796, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+797, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+798, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+799, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+800, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+801, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+802, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+803, Yaba,13000000,3,1,1,Comfy Burrows, Lagos
+804, Yaba,1200000,1,1,2,Alagomeji, Lagos
+805, Yaba,1200000,1,1,2,Alagomeji, Lagos
+806, Yaba,1200000,1,1,2,Alagomeji, Lagos
+807, Yaba,700000,3,3,4,Alagomeji, Lagos
+808, Yaba,700000,3,3,4,Alagomeji, Lagos
+809, Yaba,700000,3,3,4,Alagomeji, Lagos
+810, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+811, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+812, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+813, Yaba,1000000,1,1,1,Iwaya, Lagos
+814, Yaba,1000000,1,1,1,Iwaya, Lagos
+815, Yaba,1000000,1,1,1,Iwaya, Lagos
+816, Yaba,4000000,3,3,4,Osholanke, Lagos
+817, Yaba,4000000,3,3,4,Osholanke, Lagos
+818, Yaba,4000000,3,3,4,Osholanke, Lagos
+819, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+820, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+821, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+822, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+823, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+824, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+825, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+826, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+827, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+828, Yaba,700000,3,3,4,Alagomeji, Lagos
+829, Yaba,700000,3,3,4,Alagomeji, Lagos
+830, Yaba,700000,3,3,4,Alagomeji, Lagos
+831, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+832, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+833, Yaba,13000000,No Info,No Info,No Info,Comfy Burrows, Lagos
+834, Yaba,1000000,1,1,1,Iwaya, Lagos
+835, Yaba,1000000,1,1,1,Iwaya, Lagos
+836, Yaba,1000000,1,1,1,Iwaya, Lagos
+837, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+838, Yaba,13000000,1,1,1,Comfy Burrows, Lagos
+839, Yaba,13000000,1,1,1,Comfy Burrows, Lagos

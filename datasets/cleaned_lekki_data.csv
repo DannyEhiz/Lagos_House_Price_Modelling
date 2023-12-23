@@ -1,0 +1,891 @@
+,Location,Price,Bedroom,Bathrooms,Toilet,Location Area,State
+0, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+1, Lekki,75000,2,2,3,Ikate, Lagos
+2, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+3, Lekki,1100000,No Info,No Info,No Info,Off Davies Court, Lagos
+4, Lekki,1100000,No Info,No Info,No Info,Off Davies Court, Lagos
+5, Lekki,1100000,No Info,No Info,No Info,Off Davies Court, Lagos
+6, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+7, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+8, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+9, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+10, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+11, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+12, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+13, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+14, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+15, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+16, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+17, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+18, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+19, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+20, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+21, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+22, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+23, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+24, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+25, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+26, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+27, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+28, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+29, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+30, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+31, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+32, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+33, Lekki,75000,2,2,3,Ikate, Lagos
+34, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+35, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+36, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+37, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+38, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+39, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+40, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+41, Lekki,85000,3,3,3,Ikate, Lagos
+42, Lekki,75000,2,2,3,Ikate, Lagos
+43, Lekki,85000,3,3,3,Ikate, Lagos
+44, Lekki,75000,2,2,3,Ikate, Lagos
+45, Lekki,75000,2,2,3,Ikate, Lagos
+46, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+47, Lekki,75000,2,2,3,Ikate, Lagos
+48, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+49, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+50, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+51, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+52, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+53, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+54, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+55, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+56, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+57, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+58, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+59, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+60, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+61, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+62, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+63, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+64, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+65, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+66, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+67, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+68, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+69, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+70, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+71, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+72, Lekki,85000,3,3,3,Ikate, Lagos
+73, Lekki,85000,3,3,3,Ikate, Lagos
+74, Lekki,85000,3,3,3,Ikate, Lagos
+75, Lekki,95000,1,1,1,Dr Miracle, Lagos
+76, Lekki,95000,1,1,1,Dr Miracle, Lagos
+77, Lekki,95000,1,1,1,Dr Miracle, Lagos
+78, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+79, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+80, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+81, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+82, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+83, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+84, Lekki,105000000,3,3,4,Osapa, Lagos
+85, Lekki,105000000,3,3,4,Osapa, Lagos
+86, Lekki,105000000,3,3,4,Osapa, Lagos
+87, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+88, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+89, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+90, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+91, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+92, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+93, Lekki,75000,2,2,3,Ikate, Lagos
+94, Lekki,85000,3,3,3,Ikate, Lagos
+95, Lekki,85000,3,3,3,Ikate, Lagos
+96, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+97, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+98, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+99, Lekki,105000000,3,3,4,Osapa, Lagos
+100, Lekki,105000000,3,3,4,Osapa, Lagos
+101, Lekki,105000000,3,3,4,Osapa, Lagos
+102, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+103, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+104, Lekki,85000,3,3,3,Ikate, Lagos
+105, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+106, Lekki,85000,3,3,3,Ikate, Lagos
+107, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+108, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+109, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+110, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+111, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+112, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+113, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+114, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+115, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+116, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+117, Lekki,75000,2,2,3,Ikate, Lagos
+118, Lekki,85000,3,3,3,Ikate, Lagos
+119, Lekki,75000,2,2,3,Ikate, Lagos
+120, Lekki,75000,2,2,3,Ikate, Lagos
+121, Lekki,75000,2,2,3,Ikate, Lagos
+122, Lekki,75000,No Info,No Info,No Info,Ikate, Lagos
+123, Lekki,85000,3,3,3,Ikate, Lagos
+124, Lekki,75000,2,2,3,Ikate, Lagos
+125, Lekki,75000,2,2,3,Ikate, Lagos
+126, Lekki,75000,No Info,No Info,No Info,Ikate, Lagos
+127, Lekki,75000,2,2,3,Ikate, Lagos
+128, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+129, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+130, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+131, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+132, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+133, Lekki,40000,No Info,No Info,No Info,Off Admiralty Way, Lagos
+134, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+135, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+136, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+137, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+138, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+139, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+140, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+141, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+142, Lekki,75000,2,2,3,Ikate, Lagos
+143, Lekki,85000,3,3,3,Ikate, Lagos
+144, Lekki,75000,2,2,3,Ikate, Lagos
+145, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+146, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+147, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+148, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+149, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+150, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+151, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+152, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+153, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+154, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+155, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+156, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+157, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+158, Lekki,75000,2,2,3,Ikate, Lagos
+159, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+160, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+161, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+162, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+163, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+164, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+165, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+166, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+167, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+168, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+169, Lekki,75000,2,2,3,Ikate, Lagos
+170, Lekki,85000,3,3,3,Ikate, Lagos
+171, Lekki,75000,2,2,3,Ikate, Lagos
+172, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+173, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+174, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+175, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+176, Lekki,75000,2,2,3,Ikate, Lagos
+177, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+178, Lekki,80000000,2,2,3,Ilasan, Lagos
+179, Lekki,80000000,2,2,3,Ilasan, Lagos
+180, Lekki,80000000,2,2,3,Ilasan, Lagos
+181, Lekki,75000,2,2,3,Ikate, Lagos
+182, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+183, Lekki,85000,3,3,3,Ikate, Lagos
+184, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+185, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+186, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+187, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+188, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+189, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+190, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+191, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+192, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+193, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+194, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+195, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+196, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+197, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+198, Lekki,85000,3,3,3,Ikate, Lagos
+199, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+200, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+201, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+202, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+203, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+204, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+205, Lekki,85000,3,3,3,Ikate, Lagos
+206, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+207, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+208, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+209, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+210, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+211, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+212, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+213, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+214, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+215, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+216, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+217, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+218, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+219, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+220, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+221, Lekki,2500000,3,3,4,Conservation Road, Lagos
+222, Lekki,2500000,3,3,4,Conservation Road, Lagos
+223, Lekki,2500000,3,3,4,Conservation Road, Lagos
+224, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+225, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+226, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+227, Lekki,850000,No Info,No Info,No Info,Eleganza Gardens, Lagos
+228, Lekki,850000,No Info,No Info,No Info,Eleganza Gardens, Lagos
+229, Lekki,850000,No Info,No Info,No Info,Eleganza Gardens, Lagos
+230, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+231, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+232, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+233, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+234, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+235, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+236, Lekki,2300000,2,2,3,Ologolo, Lagos
+237, Lekki,2300000,2,2,3,Ologolo, Lagos
+238, Lekki,2300000,2,2,3,Ologolo, Lagos
+239, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+240, Lekki,85000,3,3,3,Ikate, Lagos
+241, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+242, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+243, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+244, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+245, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+246, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+247, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+248, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+249, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+250, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+251, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+252, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+253, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+254, Lekki,2500000,3,3,4,Conservation Road, Lagos
+255, Lekki,2500000,3,3,4,Conservation Road, Lagos
+256, Lekki,2500000,3,3,4,Conservation Road, Lagos
+257, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+258, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+259, Lekki,75000,2,2,3,Ikate, Lagos
+260, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+261, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+262, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+263, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+264, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+265, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+266, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+267, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+268, Lekki,85000,3,3,3,Ikate, Lagos
+269, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+270, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+271, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+272, Lekki,2300000,2,2,3,Ologolo, Lagos
+273, Lekki,2300000,2,2,3,Ologolo, Lagos
+274, Lekki,2300000,2,2,3,Ologolo, Lagos
+275, Lekki,75000,2,2,3,Ikate, Lagos
+276, Lekki,85000,3,3,3,Ikate, Lagos
+277, Lekki,75000,2,2,3,Ikate, Lagos
+278, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+279, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+280, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+281, Lekki,85000,3,3,3,Ikate, Lagos
+282, Lekki,75000,2,2,3,Ikate, Lagos
+283, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+284, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+285, Lekki,75000,2,2,3,Ikate, Lagos
+286, Lekki,85000,3,3,3,Ikate, Lagos
+287, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+288, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+289, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+290, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+291, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+292, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+293, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+294, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+295, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+296, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+297, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+298, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+299, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+300, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+301, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+302, Lekki,95000,1,1,1,Dr Miracle, Lagos
+303, Lekki,95000,1,1,1,Dr Miracle, Lagos
+304, Lekki,95000,1,1,1,Dr Miracle, Lagos
+305, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+306, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+307, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+308, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+309, Lekki,75000,2,2,3,Ikate, Lagos
+310, Lekki,75000,2,2,3,Ikate, Lagos
+311, Lekki,1500000,1,1,2,65 Ajiran Road, Lagos
+312, Lekki,1500000,1,1,2,65 Ajiran Road, Lagos
+313, Lekki,1500000,1,1,2,65 Ajiran Road, Lagos
+314, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+315, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+316, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+317, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+318, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+319, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+320, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+321, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+322, Lekki,85000,3,3,3,Ikate, Lagos
+323, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+324, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+325, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+326, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+327, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+328, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+329, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+330, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+331, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+332, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+333, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+334, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+335, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+336, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+337, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+338, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+339, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+340, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+341, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+342, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+343, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+344, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+345, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+346, Lekki,1500000,1,1,1,No. 6 Familoni Street, Lagos
+347, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+348, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+349, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+350, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+351, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+352, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+353, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+354, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+355, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+356, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+357, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+358, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+359, Lekki,85000,3,3,3,Ikate, Lagos
+360, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+361, Lekki,75000,2,2,3,Ikate, Lagos
+362, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+363, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+364, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+365, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+366, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+367, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+368, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+369, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+370, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+371, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+372, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+373, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+374, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+375, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+376, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+377, Lekki,75000,2,2,3,Ikate, Lagos
+378, Lekki,85000,3,3,3,Ikate, Lagos
+379, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+380, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+381, Lekki,75000,2,2,3,Ikate, Lagos
+382, Lekki,85000,3,3,3,Ikate, Lagos
+383, Lekki,85000,3,3,3,Ikate, Lagos
+384, Lekki,85000,3,3,3,Ikate, Lagos
+385, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+386, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+387, Lekki,75000,2,2,3,Ikate, Lagos
+388, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+389, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+390, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+391, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+392, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+393, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+394, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+395, Lekki,85000,3,3,3,Ikate, Lagos
+396, Lekki,85000,3,3,3,Ikate, Lagos
+397, Lekki,85000,3,3,3,Ikate, Lagos
+398, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+399, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+400, Lekki,800000,No Info,No Info,No Info,6 Familoni Street, Lagos
+401, Lekki,75000,2,2,3,Ikate, Lagos
+402, Lekki,75000,2,2,3,Ikate, Lagos
+403, Lekki,85000,3,3,3,Ikate, Lagos
+404, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+405, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+406, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+407, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+408, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+409, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+410, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+411, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+412, Lekki,1000000,No Info,No Info,No Info,Conservation Road, Lagos
+413, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+414, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+415, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+416, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+417, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+418, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+419, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+420, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+421, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+422, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+423, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+424, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+425, Lekki,45000000,2,2,3,VGC, Lagos
+426, Lekki,45000000,2,2,3,VGC, Lagos
+427, Lekki,45000000,2,2,3,VGC, Lagos
+428, Lekki,95000,1,1,1,Dr Miracle, Lagos
+429, Lekki,95000,1,1,1,Dr Miracle, Lagos
+430, Lekki,95000,1,1,1,Dr Miracle, Lagos
+431, Lekki,70000000,3,3,4,Agungi, Lagos
+432, Lekki,70000000,3,3,4,Agungi, Lagos
+433, Lekki,70000000,3,3,4,Agungi, Lagos
+434, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+435, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+436, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+437, Lekki,2300000,2,2,3,Ologolo, Lagos
+438, Lekki,2300000,2,2,3,Ologolo, Lagos
+439, Lekki,2300000,2,2,3,Ologolo, Lagos
+440, Lekki,80000000,2,2,3,Ilasan, Lagos
+441, Lekki,80000000,2,2,3,Ilasan, Lagos
+442, Lekki,80000000,2,2,3,Ilasan, Lagos
+443, Lekki,95000,1,1,1,Dr Miracle, Lagos
+444, Lekki,95000,1,1,1,Dr Miracle, Lagos
+445, Lekki,95000,1,1,1,Dr Miracle, Lagos
+446, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+447, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+448, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+449, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+450, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+451, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+452, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+453, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+454, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+455, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+456, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+457, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+458, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+459, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+460, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+461, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+462, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+463, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+464, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+465, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+466, Lekki,100000000,2,2,3,Lekki Phase 2, Lagos
+467, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+468, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+469, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+470, Lekki,2500000,3,3,4,Conservation Road, Lagos
+471, Lekki,2500000,3,3,4,Conservation Road, Lagos
+472, Lekki,2500000,3,3,4,Conservation Road, Lagos
+473, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+474, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+475, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+476, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+477, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+478, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+479, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+480, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+481, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+482, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+483, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+484, Lekki,2300000,1,1,2,Chevron Toll Gate, Lagos
+485, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+486, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+487, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+488, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+489, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+490, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+491, Lekki,2300000,2,2,3,Ologolo, Lagos
+492, Lekki,2300000,2,2,3,Ologolo, Lagos
+493, Lekki,2300000,2,2,3,Ologolo, Lagos
+494, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+495, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+496, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+497, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+498, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+499, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+500, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+501, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+502, Lekki,2000000,1,1,1,Canal West Estate, Lagos
+503, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+504, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+505, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+506, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+507, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+508, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+509, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+510, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+511, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+512, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+513, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+514, Lekki,1200000,No Info,No Info,No Info,Off Chevron Drive, Lagos
+515, Lekki,2500000,3,4,4,Idado, Lagos
+516, Lekki,2500000,3,4,4,Idado, Lagos
+517, Lekki,2500000,3,4,4,Idado, Lagos
+518, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+519, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+520, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+521, Lekki,2200000,1,1,2,Idado, Lagos
+522, Lekki,2200000,1,1,2,Idado, Lagos
+523, Lekki,2200000,1,1,2,Idado, Lagos
+524, Lekki,2300000,2,2,3,Ologolo, Lagos
+525, Lekki,2300000,2,2,3,Ologolo, Lagos
+526, Lekki,2300000,2,2,3,Ologolo, Lagos
+527, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+528, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+529, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+530, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+531, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+532, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+533, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+534, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+535, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+536, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+537, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+538, Lekki,1200000,No Info,No Info,No Info,Osapa London, Lagos
+539, Lekki,95000,1,1,1,Dr Miracle, Lagos
+540, Lekki,95000,1,1,1,Dr Miracle, Lagos
+541, Lekki,95000,1,1,1,Dr Miracle, Lagos
+542, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+543, Lekki,85000,3,3,3,Ikate, Lagos
+544, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+545, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+546, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+547, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+548, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+549, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+550, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+551, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+552, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+553, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+554, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+555, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+556, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+557, Lekki,75000,2,2,3,Ikate, Lagos
+558, Lekki,75000,2,2,3,Ikate, Lagos
+559, Lekki,75000,2,2,3,Ikate, Lagos
+560, Lekki,2300000,2,2,3,Ologolo, Lagos
+561, Lekki,2300000,2,2,3,Ologolo, Lagos
+562, Lekki,2300000,2,2,3,Ologolo, Lagos
+563, Lekki,95000,1,1,1,Dr Miracle, Lagos
+564, Lekki,95000,1,1,1,Dr Miracle, Lagos
+565, Lekki,95000,1,1,1,Dr Miracle, Lagos
+566, Lekki,2300000,2,2,3,Ologolo, Lagos
+567, Lekki,2300000,2,2,3,Ologolo, Lagos
+568, Lekki,2300000,2,2,3,Ologolo, Lagos
+569, Lekki,95000,1,1,1,Dr Miracle, Lagos
+570, Lekki,95000,1,1,1,Dr Miracle, Lagos
+571, Lekki,95000,1,1,1,Dr Miracle, Lagos
+572, Lekki,75000,2,2,3,Ikate, Lagos
+573, Lekki,75000,2,2,3,Ikate, Lagos
+574, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+575, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+576, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+577, Lekki,85000,3,3,3,Ikate, Lagos
+578, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+579, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+580, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+581, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+582, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+583, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+584, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+585, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+586, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+587, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+588, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+589, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+590, Lekki,75000,2,2,3,Ikate, Lagos
+591, Lekki,75000,2,2,3,Ikate, Lagos
+592, Lekki,85000,3,3,3,Ikate, Lagos
+593, Lekki,85000,3,3,3,Ikate, Lagos
+594, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+595, Lekki,85000,3,3,3,Ikate, Lagos
+596, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+597, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+598, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+599, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+600, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+601, Lekki,75000,2,2,3,Ikate, Lagos
+602, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+603, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+604, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+605, Lekki,1500000,No Info,No Info,No Info,Roxbury Estate, Lagos
+606, Lekki,1500000,No Info,No Info,No Info,Roxbury Estate, Lagos
+607, Lekki,1500000,No Info,No Info,No Info,Roxbury Estate, Lagos
+608, Lekki,105000000,3,3,4,Osapa, Lagos
+609, Lekki,105000000,3,3,4,Osapa, Lagos
+610, Lekki,105000000,3,3,4,Osapa, Lagos
+611, Lekki,2500000,3,3,4,Conservation Road, Lagos
+612, Lekki,2500000,3,3,4,Conservation Road, Lagos
+613, Lekki,2500000,3,3,4,Conservation Road, Lagos
+614, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+615, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+616, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+617, Lekki,85000,3,3,3,Ikate, Lagos
+618, Lekki,75000,2,2,3,Ikate, Lagos
+619, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+620, Lekki,2300000,2,2,3,Ologolo, Lagos
+621, Lekki,2300000,2,2,3,Ologolo, Lagos
+622, Lekki,2300000,2,2,3,Ologolo, Lagos
+623, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+624, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+625, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+626, Lekki,95000,1,1,1,Dr Miracle, Lagos
+627, Lekki,95000,1,1,1,Dr Miracle, Lagos
+628, Lekki,95000,1,1,1,Dr Miracle, Lagos
+629, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+630, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+631, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+632, Lekki,2500000,3,4,4,Idado, Lagos
+633, Lekki,2500000,3,4,4,Idado, Lagos
+634, Lekki,2500000,3,4,4,Idado, Lagos
+635, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+636, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+637, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+638, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+639, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+640, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+641, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+642, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+643, Lekki,1400000,No Info,No Info,No Info,Salem, Lagos
+644, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+645, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+646, Lekki,75000,2,2,3,Ikate, Lagos
+647, Lekki,95000,1,1,1,Dr Miracle, Lagos
+648, Lekki,95000,1,1,1,Dr Miracle, Lagos
+649, Lekki,95000,1,1,1,Dr Miracle, Lagos
+650, Lekki,38500000,1,1,2,Abijo, Lagos
+651, Lekki,38500000,1,1,2,Abijo, Lagos
+652, Lekki,38500000,1,1,2,Abijo, Lagos
+653, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+654, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+655, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+656, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+657, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+658, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+659, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+660, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+661, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+662, Lekki,95000,1,1,1,Dr Miracle, Lagos
+663, Lekki,95000,1,1,1,Dr Miracle, Lagos
+664, Lekki,95000,1,1,1,Dr Miracle, Lagos
+665, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+666, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+667, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+668, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+669, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+670, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+671, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+672, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+673, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+674, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+675, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+676, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+677, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+678, Lekki,105000000,3,3,4,Osapa, Lagos
+679, Lekki,105000000,3,3,4,Osapa, Lagos
+680, Lekki,105000000,3,3,4,Osapa, Lagos
+681, Lekki,85000,3,3,3,Ikate, Lagos
+682, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+683, Lekki,75000,2,2,3,Ikate, Lagos
+684, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+685, Lekki,85000,3,3,3,Ikate, Lagos
+686, Lekki,75000,2,2,3,Ikate, Lagos
+687, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+688, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+689, Lekki,85000,3,3,3,Ikate, Lagos
+690, Lekki,75000,2,2,3,Ikate, Lagos
+691, Lekki,75000,2,2,3,Ikate, Lagos
+692, Lekki,85000,3,3,3,Ikate, Lagos
+693, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+694, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+695, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+696, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+697, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+698, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+699, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+700, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+701, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+702, Lekki,45000000,1,1,2,Ikate, Lagos
+703, Lekki,45000000,1,1,2,Ikate, Lagos
+704, Lekki,45000000,1,1,2,Ikate, Lagos
+705, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+706, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+707, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+708, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+709, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+710, Lekki,3500000,2,3,3,Tindel Mews Estate, Lagos
+711, Lekki,70000000,3,3,4,Agungi, Lagos
+712, Lekki,70000000,3,3,4,Agungi, Lagos
+713, Lekki,70000000,3,3,4,Agungi, Lagos
+714, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+715, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+716, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+717, Lekki,85000,3,3,3,Ikate, Lagos
+718, Lekki,75000,2,2,3,Ikate, Lagos
+719, Lekki,75000,2,2,3,Ikate, Lagos
+720, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+721, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+722, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+723, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+724, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+725, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+726, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+727, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+728, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+729, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+730, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+731, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+732, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+733, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+734, Lekki,1600000,No Info,No Info,No Info,John Okafor Estate, Lagos
+735, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+736, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+737, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+738, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+739, Lekki,75000,2,2,3,Ikate, Lagos
+740, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+741, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+742, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+743, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+744, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+745, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+746, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+747, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+748, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+749, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+750, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+751, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+752, Lekki,1000000,No Info,No Info,No Info,Chevron Toll Gate, Lagos
+753, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+754, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+755, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+756, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+757, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+758, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+759, Lekki,95000,1,1,1,Dr Miracle, Lagos
+760, Lekki,95000,1,1,1,Dr Miracle, Lagos
+761, Lekki,95000,1,1,1,Dr Miracle, Lagos
+762, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+763, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+764, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+765, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+766, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+767, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+768, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+769, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+770, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+771, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+772, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+773, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+774, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+775, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+776, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+777, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+778, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+779, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+780, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+781, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+782, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+783, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+784, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+785, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+786, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+787, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+788, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+789, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+790, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+791, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+792, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+793, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+794, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+795, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+796, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+797, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+798, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+799, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+800, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+801, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+802, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+803, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+804, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+805, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+806, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+807, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+808, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+809, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+810, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+811, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+812, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+813, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+814, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+815, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+816, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+817, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+818, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+819, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+820, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+821, Lekki,1400000,1,1,1,Off Catholic Church Road, Lagos
+822, Lekki,2500000,3,4,4,Idado, Lagos
+823, Lekki,2500000,3,4,4,Idado, Lagos
+824, Lekki,2500000,No Info,No Info,No Info,Idado, Lagos
+825, Lekki,2500000,3,4,4,Idado, Lagos
+826, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+827, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+828, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+829, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+830, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+831, Lekki,2000000,No Info,No Info,No Info,Ikate Elegushi, Lagos
+832, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+833, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+834, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+835, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+836, Lekki,85000,3,3,3,Ikate, Lagos
+837, Lekki,85000,3,3,3,Ikate, Lagos
+838, Lekki,85000,3,3,3,Ikate, Lagos
+839, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+840, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+841, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+842, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+843, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+844, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+845, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+846, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+847, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+848, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+849, Lekki,1700000,No Info,No Info,No Info,Lekki Phase 1, Lagos
+850, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+851, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+852, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+853, Lekki,105000000,3,3,4,Osapa, Lagos
+854, Lekki,105000000,3,3,4,Osapa, Lagos
+855, Lekki,105000000,3,3,4,Osapa, Lagos
+856, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+857, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+858, Lekki,2500000,3,3,4,Igbo Efon, Lagos
+859, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+860, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+861, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+862, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+863, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+864, Lekki,2500000,2,2,3,Lekki County Road, Lagos
+865, Lekki,80000000,2,2,3,Ilasan, Lagos
+866, Lekki,80000000,2,2,3,Ilasan, Lagos
+867, Lekki,80000000,2,2,3,Ilasan, Lagos
+868, Lekki,85000,3,3,3,Ikate, Lagos
+869, Lekki,75000,2,2,3,Ikate, Lagos
+870, Lekki,85000,3,3,3,Ikate, Lagos
+871, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+872, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+873, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+874, Lekki,70000000,3,3,4,Agungi, Lagos
+875, Lekki,70000000,3,3,4,Agungi, Lagos
+876, Lekki,70000000,3,3,4,Agungi, Lagos
+877, Lekki,85000,3,3,3,Ikate, Lagos
+878, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+879, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+880, Lekki,1700000,1,1,1,Lekki Phase 1, Lagos
+881, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+882, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+883, Lekki,2500000,3,3,3,Alpha Bay Estates. Alpha Beach Road. Lekki, Lagos
+884, Lekki,75000,2,2,3,Ikate, Lagos
+885, Lekki,75000,No Info,No Info,No Info,Ikate, Lagos
+886, Lekki,1700000,2,1,1,Lekki Phase 1, Lagos
+887, Lekki,40000,1,1,1,Off Admiralty Way, Lagos
+888, Lekki,85000,3,3,3,Ikate, Lagos
+889, Lekki,75000,2,2,3,Ikate, Lagos

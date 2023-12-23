@@ -1,0 +1,843 @@
+,Location,Price,Bedroom,Bathrooms,Toilet,Location Area,State
+0, Ikeja,1500000,2,2,3,Aguda, Lagos
+1, Ikeja,1500000,2,2,3,Aguda, Lagos
+2, Ikeja,1500000,2,2,3,Aguda, Lagos
+3, Ikeja,3500000,No Info,No Info,No Info,Fajuyi Way, Lagos
+4, Ikeja,3500000,No Info,No Info,No Info,Fajuyi Way, Lagos
+5, Ikeja,3500000,No Info,No Info,No Info,Fajuyi Way, Lagos
+6, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+7, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+8, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+9, Ikeja,750000,1,1,2,Off College Road, Lagos
+10, Ikeja,750000,1,1,2,Off College Road, Lagos
+11, Ikeja,750000,1,1,2,Off College Road, Lagos
+12, Ikeja,1500000,2,2,3,Aguda, Lagos
+13, Ikeja,1500000,2,2,3,Aguda, Lagos
+14, Ikeja,1500000,2,2,3,Aguda, Lagos
+15, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+16, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+17, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+18, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+19, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+20, Ikeja,40000,No Info,No Info,No Info,Adeyemo Akapo, Lagos
+21, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+22, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+23, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+24, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+25, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+26, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+27, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+28, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+29, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+30, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+31, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+32, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+33, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+34, Ikeja,750000,1,1,2,Off College Road, Lagos
+35, Ikeja,750000,1,1,2,Off College Road, Lagos
+36, Ikeja,750000,1,1,2,Off College Road, Lagos
+37, Ikeja,1200000,1,1,2,Alausa, Lagos
+38, Ikeja,1200000,1,1,2,Alausa, Lagos
+39, Ikeja,1200000,1,1,2,Alausa, Lagos
+40, Ikeja,1500000,2,2,3,Aguda, Lagos
+41, Ikeja,1500000,2,2,3,Aguda, Lagos
+42, Ikeja,1500000,2,2,3,Aguda, Lagos
+43, Ikeja,1500000,2,2,3,Aguda, Lagos
+44, Ikeja,1500000,2,2,3,Aguda, Lagos
+45, Ikeja,1500000,2,2,3,Aguda, Lagos
+46, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+47, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+48, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+49, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+50, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+51, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+52, Ikeja,1500000,2,2,3,Aguda, Lagos
+53, Ikeja,1500000,2,2,3,Aguda, Lagos
+54, Ikeja,1500000,2,2,3,Aguda, Lagos
+55, Ikeja,1500000,2,2,3,Aguda, Lagos
+56, Ikeja,1500000,2,2,3,Aguda, Lagos
+57, Ikeja,1500000,2,2,3,Aguda, Lagos
+58, Ikeja,1500000,2,2,3,Aguda, Lagos
+59, Ikeja,1500000,2,2,3,Aguda, Lagos
+60, Ikeja,1500000,2,2,3,Aguda, Lagos
+61, Ikeja,90000,2,2,2,Opebi, Lagos
+62, Ikeja,90000,2,2,2,Opebi, Lagos
+63, Ikeja,90000,2,2,2,Opebi, Lagos
+64, Ikeja,90000,2,2,2,Opebi, Lagos
+65, Ikeja,90000,2,2,2,Opebi, Lagos
+66, Ikeja,90000,2,2,2,Opebi, Lagos
+67, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+68, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+69, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+70, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+71, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+72, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+73, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+74, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+75, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+76, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+77, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+78, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+79, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+80, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+81, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+82, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+83, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+84, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+85, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+86, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+87, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+88, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+89, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+90, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+91, Ikeja,750000,1,1,2,Off College Road, Lagos
+92, Ikeja,750000,1,1,2,Off College Road, Lagos
+93, Ikeja,750000,1,1,2,Off College Road, Lagos
+94, Ikeja,1500000,2,2,3,Aguda, Lagos
+95, Ikeja,1500000,2,2,3,Aguda, Lagos
+96, Ikeja,1500000,2,2,3,Aguda, Lagos
+97, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+98, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+99, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+100, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+101, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+102, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+103, Ikeja,750000,1,1,2,Off College Road, Lagos
+104, Ikeja,750000,1,1,2,Off College Road, Lagos
+105, Ikeja,750000,1,1,2,Off College Road, Lagos
+106, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+107, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+108, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+109, Ikeja,750000,1,1,2,Off College Road, Lagos
+110, Ikeja,750000,1,1,2,Off College Road, Lagos
+111, Ikeja,750000,1,1,2,Off College Road, Lagos
+112, Ikeja,90000,2,2,2,Opebi, Lagos
+113, Ikeja,90000,2,2,2,Opebi, Lagos
+114, Ikeja,90000,2,2,2,Opebi, Lagos
+115, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+116, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+117, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+118, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+119, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+120, Ikeja,1500000,1,1,2,Bamishile Estate, Lagos
+121, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+122, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+123, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+124, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+125, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+126, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+127, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+128, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+129, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+130, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+131, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+132, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+133, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+134, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+135, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+136, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+137, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+138, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+139, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+140, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+141, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+142, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+143, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+144, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+145, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+146, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+147, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+148, Ikeja,50000,2,2,3,Wemco Road, Lagos
+149, Ikeja,50000,2,2,3,Wemco Road, Lagos
+150, Ikeja,50000,2,2,3,Wemco Road, Lagos
+151, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+152, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+153, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+154, Ikeja,45000,1,1,2,Oremeta, Lagos
+155, Ikeja,45000,1,1,2,Oremeta, Lagos
+156, Ikeja,45000,1,1,2,Oremeta, Lagos
+157, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+158, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+159, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+160, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+161, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+162, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+163, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+164, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+165, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+166, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+167, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+168, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+169, Ikeja,90000,2,2,2,Opebi, Lagos
+170, Ikeja,90000,2,2,2,Opebi, Lagos
+171, Ikeja,90000,2,2,2,Opebi, Lagos
+172, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+173, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+174, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+175, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+176, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+177, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+178, Ikeja,90000,2,2,2,Opebi, Lagos
+179, Ikeja,90000,2,2,2,Opebi, Lagos
+180, Ikeja,90000,2,2,2,Opebi, Lagos
+181, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+182, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+183, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+184, Ikeja,90000,2,2,2,Opebi, Lagos
+185, Ikeja,90000,2,2,2,Opebi, Lagos
+186, Ikeja,90000,2,2,2,Opebi, Lagos
+187, Ikeja,1500000,2,2,3,Aguda, Lagos
+188, Ikeja,1500000,2,2,3,Aguda, Lagos
+189, Ikeja,1500000,2,2,3,Aguda, Lagos
+190, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+191, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+192, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+193, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+194, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+195, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+196, Ikeja,1500000,2,2,3,Aguda, Lagos
+197, Ikeja,1500000,2,2,3,Aguda, Lagos
+198, Ikeja,1500000,2,2,3,Aguda, Lagos
+199, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+200, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+201, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+202, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+203, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+204, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+205, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+206, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+207, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+208, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+209, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+210, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+211, Ikeja,45000,1,1,2,Oremeta, Lagos
+212, Ikeja,45000,1,1,2,Oremeta, Lagos
+213, Ikeja,45000,1,1,2,Oremeta, Lagos
+214, Ikeja,90000,2,2,2,Opebi, Lagos
+215, Ikeja,90000,2,2,2,Opebi, Lagos
+216, Ikeja,90000,2,2,2,Opebi, Lagos
+217, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+218, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+219, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+220, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+221, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+222, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+223, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+224, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+225, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+226, Ikeja,1500000,2,2,3,Aguda, Lagos
+227, Ikeja,1500000,2,2,3,Aguda, Lagos
+228, Ikeja,1500000,2,2,3,Aguda, Lagos
+229, Ikeja,750000,1,1,2,Off College Road, Lagos
+230, Ikeja,750000,1,1,2,Off College Road, Lagos
+231, Ikeja,750000,1,1,2,Off College Road, Lagos
+232, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+233, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+234, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+235, Ikeja,90000,2,2,2,Opebi, Lagos
+236, Ikeja,90000,2,2,2,Opebi, Lagos
+237, Ikeja,90000,2,2,2,Opebi, Lagos
+238, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+239, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+240, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+241, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+242, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+243, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+244, Ikeja,1500000,2,2,3,Aguda, Lagos
+245, Ikeja,1500000,2,2,3,Aguda, Lagos
+246, Ikeja,1500000,2,2,3,Aguda, Lagos
+247, Ikeja,1500000,2,2,3,Aguda, Lagos
+248, Ikeja,1500000,2,2,3,Aguda, Lagos
+249, Ikeja,1500000,2,2,3,Aguda, Lagos
+250, Ikeja,90000,2,2,2,Opebi, Lagos
+251, Ikeja,90000,2,2,2,Opebi, Lagos
+252, Ikeja,90000,2,2,2,Opebi, Lagos
+253, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+254, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+255, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+256, Ikeja,750000,1,1,2,Off College Road, Lagos
+257, Ikeja,750000,1,1,2,Off College Road, Lagos
+258, Ikeja,750000,1,1,2,Off College Road, Lagos
+259, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+260, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+261, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+262, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+263, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+264, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+265, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+266, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+267, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+268, Ikeja,750000,1,1,2,Off College Road, Lagos
+269, Ikeja,750000,1,1,2,Off College Road, Lagos
+270, Ikeja,750000,1,1,2,Off College Road, Lagos
+271, Ikeja,1500000,2,2,3,Aguda, Lagos
+272, Ikeja,1500000,2,2,3,Aguda, Lagos
+273, Ikeja,1500000,2,2,3,Aguda, Lagos
+274, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+275, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+276, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+277, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+278, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+279, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+280, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+281, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+282, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+283, Ikeja,1200000,1,1,2,Alausa, Lagos
+284, Ikeja,1200000,1,1,2,Alausa, Lagos
+285, Ikeja,1200000,1,1,2,Alausa, Lagos
+286, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+287, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+288, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+289, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+290, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+291, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+292, Ikeja,1500000,2,2,3,Aguda, Lagos
+293, Ikeja,1500000,2,2,3,Aguda, Lagos
+294, Ikeja,1500000,2,2,3,Aguda, Lagos
+295, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+296, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+297, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+298, Ikeja,1500000,2,2,3,Aguda, Lagos
+299, Ikeja,1500000,2,2,3,Aguda, Lagos
+300, Ikeja,1500000,2,2,3,Aguda, Lagos
+301, Ikeja,1500000,2,2,3,Aguda, Lagos
+302, Ikeja,1500000,2,2,3,Aguda, Lagos
+303, Ikeja,1500000,2,2,3,Aguda, Lagos
+304, Ikeja,1200000,1,1,2,Alausa, Lagos
+305, Ikeja,1200000,1,1,2,Alausa, Lagos
+306, Ikeja,1200000,1,1,2,Alausa, Lagos
+307, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+308, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+309, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+310, Ikeja,90000,2,2,2,Opebi, Lagos
+311, Ikeja,90000,2,2,2,Opebi, Lagos
+312, Ikeja,90000,2,2,2,Opebi, Lagos
+313, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+314, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+315, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+316, Ikeja,1200000,1,1,2,Alausa, Lagos
+317, Ikeja,1200000,1,1,2,Alausa, Lagos
+318, Ikeja,1200000,1,1,2,Alausa, Lagos
+319, Ikeja,1500000,2,2,3,Aguda, Lagos
+320, Ikeja,1500000,2,2,3,Aguda, Lagos
+321, Ikeja,1500000,2,2,3,Aguda, Lagos
+322, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+323, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+324, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+325, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+326, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+327, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+328, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+329, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+330, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+331, Ikeja,90000,2,2,2,Opebi, Lagos
+332, Ikeja,90000,2,2,2,Opebi, Lagos
+333, Ikeja,90000,2,2,2,Opebi, Lagos
+334, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+335, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+336, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+337, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+338, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+339, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+340, Ikeja,90000,2,2,2,Opebi, Lagos
+341, Ikeja,90000,2,2,2,Opebi, Lagos
+342, Ikeja,90000,2,2,2,Opebi, Lagos
+343, Ikeja,90000,2,2,2,Opebi, Lagos
+344, Ikeja,90000,2,2,2,Opebi, Lagos
+345, Ikeja,90000,2,2,2,Opebi, Lagos
+346, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+347, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+348, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+349, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+350, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+351, Ikeja,300000000,No Info,No Info,No Info,Ikeja GRA, Lagos
+352, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+353, Ikeja,45000,1,1,2,Oremeta, Lagos
+354, Ikeja,45000,1,1,2,Oremeta, Lagos
+355, Ikeja,45000,1,1,2,Oremeta, Lagos
+356, Ikeja,50000,2,2,3,Wemco Road, Lagos
+357, Ikeja,50000,2,2,3,Wemco Road, Lagos
+358, Ikeja,50000,2,2,3,Wemco Road, Lagos
+359, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+360, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+361, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+362, Ikeja,750000,1,1,2,Off College Road, Lagos
+363, Ikeja,750000,1,1,2,Off College Road, Lagos
+364, Ikeja,750000,1,1,2,Off College Road, Lagos
+365, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+366, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+367, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+368, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+369, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+370, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+371, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+372, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+373, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+374, Ikeja,750000,1,1,2,Off College Road, Lagos
+375, Ikeja,750000,1,1,2,Off College Road, Lagos
+376, Ikeja,750000,1,1,2,Off College Road, Lagos
+377, Ikeja,750000,1,1,2,Off College Road, Lagos
+378, Ikeja,750000,1,1,2,Off College Road, Lagos
+379, Ikeja,750000,1,1,2,Off College Road, Lagos
+380, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+381, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+382, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+383, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+384, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+385, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+386, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+387, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+388, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+389, Ikeja,750000,1,1,2,Off College Road, Lagos
+390, Ikeja,750000,1,1,2,Off College Road, Lagos
+391, Ikeja,750000,1,1,2,Off College Road, Lagos
+392, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+393, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+394, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+395, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+396, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+397, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+398, Ikeja,1500000,2,2,3,Aguda, Lagos
+399, Ikeja,1500000,2,2,3,Aguda, Lagos
+400, Ikeja,1500000,2,2,3,Aguda, Lagos
+401, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+402, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+403, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+404, Ikeja,750000,1,1,2,Off College Road, Lagos
+405, Ikeja,750000,1,1,2,Off College Road, Lagos
+406, Ikeja,750000,1,1,2,Off College Road, Lagos
+407, Ikeja,750000,1,1,2,Off College Road, Lagos
+408, Ikeja,750000,1,1,2,Off College Road, Lagos
+409, Ikeja,750000,1,1,2,Off College Road, Lagos
+410, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+411, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+412, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+413, Ikeja,750000,1,1,2,Off College Road, Lagos
+414, Ikeja,750000,1,1,2,Off College Road, Lagos
+415, Ikeja,750000,1,1,2,Off College Road, Lagos
+416, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+417, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+418, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+419, Ikeja,750000,1,1,2,Off College Road, Lagos
+420, Ikeja,750000,1,1,2,Off College Road, Lagos
+421, Ikeja,750000,1,1,2,Off College Road, Lagos
+422, Ikeja,750000,1,1,2,Off College Road, Lagos
+423, Ikeja,750000,1,1,2,Off College Road, Lagos
+424, Ikeja,750000,1,1,2,Off College Road, Lagos
+425, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+426, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+427, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+428, Ikeja,1500000,2,2,3,Aguda, Lagos
+429, Ikeja,1500000,2,2,3,Aguda, Lagos
+430, Ikeja,1500000,2,2,3,Aguda, Lagos
+431, Ikeja,1500000,2,2,3,Aguda, Lagos
+432, Ikeja,1500000,2,2,3,Aguda, Lagos
+433, Ikeja,1500000,2,2,3,Aguda, Lagos
+434, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+435, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+436, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+437, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+438, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+439, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+440, Ikeja,90000,2,2,2,Opebi, Lagos
+441, Ikeja,90000,2,2,2,Opebi, Lagos
+442, Ikeja,90000,2,2,2,Opebi, Lagos
+443, Ikeja,750000,1,1,2,Off College Road, Lagos
+444, Ikeja,750000,1,1,2,Off College Road, Lagos
+445, Ikeja,750000,1,1,2,Off College Road, Lagos
+446, Ikeja,1500000,2,2,3,Aguda, Lagos
+447, Ikeja,1500000,2,2,3,Aguda, Lagos
+448, Ikeja,1500000,2,2,3,Aguda, Lagos
+449, Ikeja,750000,1,1,2,Off College Road, Lagos
+450, Ikeja,750000,1,1,2,Off College Road, Lagos
+451, Ikeja,750000,1,1,2,Off College Road, Lagos
+452, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+453, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+454, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+455, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+456, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+457, Ikeja,46500,1,1,1,Sule Abuka Cresent, Lagos
+458, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+459, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+460, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+461, Ikeja,750000,1,1,2,Off College Road, Lagos
+462, Ikeja,750000,1,1,2,Off College Road, Lagos
+463, Ikeja,750000,1,1,2,Off College Road, Lagos
+464, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+465, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+466, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+467, Ikeja,750000,1,1,2,Off College Road, Lagos
+468, Ikeja,750000,1,1,2,Off College Road, Lagos
+469, Ikeja,750000,1,1,2,Off College Road, Lagos
+470, Ikeja,30000,No Info,No Info,No Info,Sule Abuka, Lagos
+471, Ikeja,30000,No Info,No Info,No Info,Sule Abuka, Lagos
+472, Ikeja,30000,No Info,No Info,No Info,Sule Abuka, Lagos
+473, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+474, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+475, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+476, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+477, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+478, Ikeja,1600000,1,1,1,Adeniyi Jones, Lagos
+479, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+480, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+481, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+482, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+483, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+484, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+485, Ikeja,90000,2,2,2,Opebi, Lagos
+486, Ikeja,90000,2,2,2,Opebi, Lagos
+487, Ikeja,90000,2,2,2,Opebi, Lagos
+488, Ikeja,1500000,2,2,3,Aguda, Lagos
+489, Ikeja,1500000,2,2,3,Aguda, Lagos
+490, Ikeja,1500000,2,2,3,Aguda, Lagos
+491, Ikeja,90000,2,2,2,Opebi, Lagos
+492, Ikeja,90000,2,2,2,Opebi, Lagos
+493, Ikeja,90000,2,2,2,Opebi, Lagos
+494, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+495, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+496, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+497, Ikeja,750000,1,1,2,Off College Road, Lagos
+498, Ikeja,750000,1,1,2,Off College Road, Lagos
+499, Ikeja,750000,1,1,2,Off College Road, Lagos
+500, Ikeja,750000,1,1,2,Off College Road, Lagos
+501, Ikeja,750000,1,1,2,Off College Road, Lagos
+502, Ikeja,750000,1,1,2,Off College Road, Lagos
+503, Ikeja,750000,1,1,2,Off College Road, Lagos
+504, Ikeja,750000,1,1,2,Off College Road, Lagos
+505, Ikeja,750000,1,1,2,Off College Road, Lagos
+506, Ikeja,1500000,2,2,3,Aguda, Lagos
+507, Ikeja,1500000,2,2,3,Aguda, Lagos
+508, Ikeja,1500000,2,2,3,Aguda, Lagos
+509, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+510, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+511, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+512, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+513, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+514, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+515, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+516, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+517, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+518, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+519, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+520, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+521, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+522, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+523, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+524, Ikeja,1500000,2,2,3,Aguda, Lagos
+525, Ikeja,1500000,2,2,3,Aguda, Lagos
+526, Ikeja,1500000,2,2,3,Aguda, Lagos
+527, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+528, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+529, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+530, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+531, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+532, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+533, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+534, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+535, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+536, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+537, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+538, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+539, Ikeja,45000,1,1,2,Oremeta, Lagos
+540, Ikeja,45000,1,1,2,Oremeta, Lagos
+541, Ikeja,45000,1,1,2,Oremeta, Lagos
+542, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+543, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+544, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+545, Ikeja,90000,2,2,2,Opebi, Lagos
+546, Ikeja,90000,2,2,2,Opebi, Lagos
+547, Ikeja,90000,2,2,2,Opebi, Lagos
+548, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+549, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+550, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+551, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+552, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+553, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+554, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+555, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+556, Ikeja,45000000,1,1,2,Omole Phase 2, Lagos
+557, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+558, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+559, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+560, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+561, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+562, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+563, Ikeja,1500000,2,2,3,Aguda, Lagos
+564, Ikeja,1500000,2,2,3,Aguda, Lagos
+565, Ikeja,1500000,2,2,3,Aguda, Lagos
+566, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+567, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+568, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+569, Ikeja,1500000,2,2,3,Aguda, Lagos
+570, Ikeja,1500000,2,2,3,Aguda, Lagos
+571, Ikeja,1500000,2,2,3,Aguda, Lagos
+572, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+573, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+574, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+575, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+576, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+577, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+578, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+579, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+580, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+581, Ikeja,750000,1,1,2,Off College Road, Lagos
+582, Ikeja,750000,1,1,2,Off College Road, Lagos
+583, Ikeja,750000,1,1,2,Off College Road, Lagos
+584, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+585, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+586, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+587, Ikeja,750000,1,1,2,Off College Road, Lagos
+588, Ikeja,750000,1,1,2,Off College Road, Lagos
+589, Ikeja,750000,1,1,2,Off College Road, Lagos
+590, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+591, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+592, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+593, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+594, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+595, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+596, Ikeja,1500000,2,2,3,Aguda, Lagos
+597, Ikeja,1500000,2,2,3,Aguda, Lagos
+598, Ikeja,1500000,2,2,3,Aguda, Lagos
+599, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+600, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+601, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+602, Ikeja,1500000,2,2,3,Aguda, Lagos
+603, Ikeja,1500000,2,2,3,Aguda, Lagos
+604, Ikeja,1500000,2,2,3,Aguda, Lagos
+605, Ikeja,1500000,2,2,3,Aguda, Lagos
+606, Ikeja,1500000,2,2,3,Aguda, Lagos
+607, Ikeja,1500000,2,2,3,Aguda, Lagos
+608, Ikeja,1500000,2,2,3,Aguda, Lagos
+609, Ikeja,1500000,2,2,3,Aguda, Lagos
+610, Ikeja,1500000,2,2,3,Aguda, Lagos
+611, Ikeja,50000,2,2,3,Wemco Road, Lagos
+612, Ikeja,50000,2,2,3,Wemco Road, Lagos
+613, Ikeja,50000,2,2,3,Wemco Road, Lagos
+614, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+615, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+616, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+617, Ikeja,750000,1,1,2,Off College Road, Lagos
+618, Ikeja,750000,1,1,2,Off College Road, Lagos
+619, Ikeja,750000,1,1,2,Off College Road, Lagos
+620, Ikeja,750000,1,1,2,Off College Road, Lagos
+621, Ikeja,750000,1,1,2,Off College Road, Lagos
+622, Ikeja,750000,1,1,2,Off College Road, Lagos
+623, Ikeja,90000,2,2,2,Opebi, Lagos
+624, Ikeja,90000,2,2,2,Opebi, Lagos
+625, Ikeja,90000,2,2,2,Opebi, Lagos
+626, Ikeja,45000,1,1,2,Oremeta, Lagos
+627, Ikeja,45000,1,1,2,Oremeta, Lagos
+628, Ikeja,45000,1,1,2,Oremeta, Lagos
+629, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+630, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+631, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+632, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+633, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+634, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+635, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+636, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+637, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+638, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+639, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+640, Ikeja,1800000,No Info,No Info,No Info,Agidingbi, Lagos
+641, Ikeja,750000,1,1,2,Off College Road, Lagos
+642, Ikeja,750000,1,1,2,Off College Road, Lagos
+643, Ikeja,750000,1,1,2,Off College Road, Lagos
+644, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+645, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+646, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+647, Ikeja,1500000,2,2,3,Aguda, Lagos
+648, Ikeja,1500000,2,2,3,Aguda, Lagos
+649, Ikeja,1500000,2,2,3,Aguda, Lagos
+650, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+651, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+652, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+653, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+654, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+655, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+656, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+657, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+658, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+659, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+660, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+661, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+662, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+663, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+664, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+665, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+666, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+667, Ikeja,60000,1,1,1,Ikeja GRA, Lagos
+668, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+669, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+670, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+671, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+672, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+673, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+674, Ikeja,1500000,2,2,3,Aguda, Lagos
+675, Ikeja,1500000,2,2,3,Aguda, Lagos
+676, Ikeja,1500000,2,2,3,Aguda, Lagos
+677, Ikeja,50000,2,2,3,Wemco Road, Lagos
+678, Ikeja,50000,2,2,3,Wemco Road, Lagos
+679, Ikeja,50000,2,2,3,Wemco Road, Lagos
+680, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+681, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+682, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+683, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+684, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+685, Ikeja,1500000,1,2,2,Bamishile Estate, Lagos
+686, Ikeja,1500000,2,2,3,Aguda, Lagos
+687, Ikeja,1500000,2,2,3,Aguda, Lagos
+688, Ikeja,1500000,2,2,3,Aguda, Lagos
+689, Ikeja,750000,1,1,2,Off College Road, Lagos
+690, Ikeja,750000,1,1,2,Off College Road, Lagos
+691, Ikeja,750000,1,1,2,Off College Road, Lagos
+692, Ikeja,750000,1,1,2,Off College Road, Lagos
+693, Ikeja,750000,1,1,2,Off College Road, Lagos
+694, Ikeja,750000,1,1,2,Off College Road, Lagos
+695, Ikeja,750000,1,1,2,Off College Road, Lagos
+696, Ikeja,750000,1,1,2,Off College Road, Lagos
+697, Ikeja,750000,1,1,2,Off College Road, Lagos
+698, Ikeja,750000,1,1,2,Off College Road, Lagos
+699, Ikeja,750000,1,1,2,Off College Road, Lagos
+700, Ikeja,750000,1,1,2,Off College Road, Lagos
+701, Ikeja,1200000,1,1,2,Alausa, Lagos
+702, Ikeja,1200000,1,1,2,Alausa, Lagos
+703, Ikeja,1200000,1,1,2,Alausa, Lagos
+704, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+705, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+706, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+707, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+708, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+709, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+710, Ikeja,1500000,2,2,3,Aguda, Lagos
+711, Ikeja,1500000,2,2,3,Aguda, Lagos
+712, Ikeja,1500000,2,2,3,Aguda, Lagos
+713, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+714, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+715, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+716, Ikeja,1200000,1,1,2,Alausa, Lagos
+717, Ikeja,1200000,1,1,2,Alausa, Lagos
+718, Ikeja,1200000,1,1,2,Alausa, Lagos
+719, Ikeja,1500000,2,2,3,Aguda, Lagos
+720, Ikeja,1500000,2,2,3,Aguda, Lagos
+721, Ikeja,1500000,2,2,3,Aguda, Lagos
+722, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+723, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+724, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+725, Ikeja,1200000,1,1,2,Alausa, Lagos
+726, Ikeja,1200000,1,1,2,Alausa, Lagos
+727, Ikeja,1200000,1,1,2,Alausa, Lagos
+728, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+729, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+730, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+731, Ikeja,1500000,2,2,3,Aguda, Lagos
+732, Ikeja,1500000,2,2,3,Aguda, Lagos
+733, Ikeja,1500000,2,2,3,Aguda, Lagos
+734, Ikeja,1500000,2,2,3,Aguda, Lagos
+735, Ikeja,1500000,2,2,3,Aguda, Lagos
+736, Ikeja,1500000,2,2,3,Aguda, Lagos
+737, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+738, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+739, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+740, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+741, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+742, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+743, Ikeja,1500000,2,2,3,Aguda, Lagos
+744, Ikeja,1500000,2,2,3,Aguda, Lagos
+745, Ikeja,1500000,2,2,3,Aguda, Lagos
+746, Ikeja,90000,2,2,2,Opebi, Lagos
+747, Ikeja,90000,2,2,2,Opebi, Lagos
+748, Ikeja,90000,2,2,2,Opebi, Lagos
+749, Ikeja,1500000,2,2,3,Aguda, Lagos
+750, Ikeja,1500000,2,2,3,Aguda, Lagos
+751, Ikeja,1500000,2,2,3,Aguda, Lagos
+752, Ikeja,1500000,2,2,3,Aguda, Lagos
+753, Ikeja,1500000,2,2,3,Aguda, Lagos
+754, Ikeja,1500000,2,2,3,Aguda, Lagos
+755, Ikeja,1500000,2,2,3,Aguda, Lagos
+756, Ikeja,1500000,2,2,3,Aguda, Lagos
+757, Ikeja,1500000,2,2,3,Aguda, Lagos
+758, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+759, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+760, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+761, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+762, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+763, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+764, Ikeja,1500000,2,2,3,Aguda, Lagos
+765, Ikeja,1500000,2,2,3,Aguda, Lagos
+766, Ikeja,1500000,2,2,3,Aguda, Lagos
+767, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+768, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+769, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+770, Ikeja,1500000,2,2,3,Aguda, Lagos
+771, Ikeja,1500000,2,2,3,Aguda, Lagos
+772, Ikeja,1500000,2,2,3,Aguda, Lagos
+773, Ikeja,750000,1,1,2,Off College Road, Lagos
+774, Ikeja,750000,1,1,2,Off College Road, Lagos
+775, Ikeja,750000,1,1,2,Off College Road, Lagos
+776, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+777, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+778, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+779, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+780, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+781, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+782, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+783, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+784, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+785, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+786, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+787, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+788, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+789, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+790, Ikeja,300000000,4,5,5,Ikeja GRA, Lagos
+791, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+792, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+793, Ikeja,180000000,3,3,4,Merit Estate, Lagos
+794, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+795, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+796, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+797, Ikeja,750000,1,1,2,Off College Road, Lagos
+798, Ikeja,750000,1,1,2,Off College Road, Lagos
+799, Ikeja,750000,1,1,2,Off College Road, Lagos
+800, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+801, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+802, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+803, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+804, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+805, Ikeja,12000000,5,5,6,Omole Phase 2, Lagos
+806, Ikeja,750000,1,1,2,Off College Road, Lagos
+807, Ikeja,750000,1,1,2,Off College Road, Lagos
+808, Ikeja,750000,1,1,2,Off College Road, Lagos
+809, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+810, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+811, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+812, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+813, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+814, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+815, Ikeja,750000,1,1,2,Off College Road, Lagos
+816, Ikeja,750000,1,1,2,Off College Road, Lagos
+817, Ikeja,750000,1,1,2,Off College Road, Lagos
+818, Ikeja,1500000,2,2,3,Aguda, Lagos
+819, Ikeja,1500000,2,2,3,Aguda, Lagos
+820, Ikeja,1500000,2,2,3,Aguda, Lagos
+821, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+822, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+823, Ikeja,35000,No Info,No Info,No Info,1, Lagos
+824, Ikeja,1500000,2,2,3,Aguda, Lagos
+825, Ikeja,1500000,2,2,3,Aguda, Lagos
+826, Ikeja,1500000,2,2,3,Aguda, Lagos
+827, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+828, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+829, Ikeja,35000,No Info,No Info,No Info,Oke Ira, Lagos
+830, Ikeja,750000,1,1,2,Off College Road, Lagos
+831, Ikeja,750000,1,1,2,Off College Road, Lagos
+832, Ikeja,750000,1,1,2,Off College Road, Lagos
+833, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+834, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+835, Ikeja,40000,1,1,1,Adeyemo Akapo, Lagos
+836, Ikeja,90000,2,2,2,Opebi, Lagos
+837, Ikeja,90000,2,2,2,Opebi, Lagos
+838, Ikeja,90000,2,2,2,Opebi, Lagos
+839, Ikeja,90000,2,2,2,Opebi, Lagos
+840, Ikeja,90000,2,2,2,Opebi, Lagos
+841, Ikeja,90000,2,2,2,Opebi, Lagos
