@@ -423,7 +423,10 @@ def sidebar():
         featurePrediction()
 
     elif selected == 'Github':
-            st.sidebar.markdown("[GitHub](https://github.com)", unsafe_allow_html=True)
+        with st.expander('Click on the link to visit the github implementation'):
+            st.markdown("[GitHub Link](https://github.com/DannyEhiz/HousePrice_Modelling/tree/main)")
+
+            # st.sidebar.markdown("[GitHub](https://github.com)", unsafe_allow_html=True)
         
 
 
