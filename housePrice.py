@@ -92,6 +92,10 @@ css = """
         overflow: hidden;
         box-shadow: rgba(212, 181, 138, 1) 0px 3px 8px;
         # border: 1px solid #B6C4B6;
+        transition: transform 0.3s;
+    }
+       .test_cont:hover {
+        transform: scale(1.05);
     }
         .p_sliders{
         color: #323232;
