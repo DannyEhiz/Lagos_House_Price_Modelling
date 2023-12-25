@@ -1,35 +1,51 @@
-# House Price Modelling
-This project utilizes machine learning techniques to analyze housing market data and predict house prices based on key features. It is aimed at creating a robust machine learning model for predicting house prices based on various features. The primary goal was to build a model with high accuracy for real estate market analysis and decision-making.
+<!-- Title -->
+# Lagos House Price Prediction
 
-<h3>Methodology</h3>
-<ol>
-  <li>Initial Attempts: Linear Regression: Initial modeling using linear regression resulted in a low accuracy of 75%, prompting further exploration.<br>
-Randomized Search CV: Employed randomized search cross-validation for hyperparameter tuning but didn't yield a significant improvement.</li>
-  <li>Advanced Algorithms: Utilized several advanced algorithms:<br>
-Gradient Booster<br>
-XGBoost<br>
-Random Forest<br>
-Decision Tree<br>
-K-Nearest Neighbors (KNN)<br>
-Other Advanced Regression Algorithms</li>
-<li>Model Selection: The sklearn Gradient Booster emerged as the best-performing model, exhibiting superior test accuracy and a low overfitting score among the algorithms tested.
-</li>
-</ol>
+<!-- Description -->
+This project is focused on utilizing HTML, CSS, and Bootstrap within Streamlit to deploy predictive models. Data was scraped from Nigeria Property Center, an online platform for real estate advertisements, specifically targeting house listings in key areas such as Ikeja, Victoria Island, Agege, Ajah, Gbagada, Lekki, Yaba, and Ikoyi.
 
-<h3>Model Deployment</h3>
-The finalized model was extracted and deployed using Flask, offering an accessible and interactive platform for house price predictions.
+<!-- Table of Contents -->
+## Table of Contents
 
-<h3>Deployment Platform</h3>
-The Flask-based model is hosted on PythonAnywhere, ensuring easy access and utilization for real-time predictions.
+- [Overview](#overview)
+- [Features](#features)
+- [Models](#models)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-Technologies Used
-Python
-Scikit-learn
-Flask
-PythonAnywhere
+## Overview
 
-Future Steps:
-Continued optimization and feature engineering could further enhance the model's accuracy and generalize its application across diverse real estate datasets.
-The model, built using Python and popular libraries, provides accurate price estimations, aiding in property market analysis and decision-making. It's deployed using Flask and hosted on PythonAnywhere for seamless accessibility.
+This project utilized HTML, CSS, and Bootstrap in conjunction with Streamlit for deployment. It involved data scraping from Nigeria Property Center using Beautiful Soup. The scraped data underwent rigorous analysis to prepare it for predictive modeling.
 
+## Features
 
+- Scraped house advertisement data from various regions in Lagos.
+- Analyzed and preprocessed data for predictive modeling.
+- Created individual predictive models for each area.
+- Utilized Streamlit menus for easy navigation.
+
+## Models
+
+The models developed are tailored to each area, allowing users to predict house prices based on features specific to those regions.
+
+## Demo
+
+The application is hosted on [Streamlit Share](https://lagoshouse.streamlit.app) and is accessible [here](https://lagoshouse.streamlit.app).
+
+## Installation
+
+To set up the project locally:
+
+1. Clone this repository.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the Streamlit app with `streamlit run app.py`.
+
+## Usage
+
+The app allows users to navigate through different areas, explore house prices, and make predictions based on specific features.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or raise issues for feature requests or bug fixes.
