@@ -32,10 +32,6 @@ st.markdown(
 # with open("styles_streamlit.css") as f:
 #        st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
 
-
-# # import the model 
-model = pickle.load(open('housePriceModel.pkl', 'rb'))
-
 # import the datasets 
 ikeja = pd.read_csv('datasets/production_data/ikeja_deploy.csv')
 ikoyi = pd.read_csv('datasets/production_data/ikoyi_deploy.csv')
@@ -176,6 +172,20 @@ css = """
         color: #280003;
         # margin-top: -3.5rem
     }
+    .col2{
+        height: 30rem;
+        align-items: center;
+        border-radius: 20px;
+        justify-content: center;
+        margin-top: 2rem;
+        padding: 4rem;
+        box-shadow: rgba(192, 147, 84, 1) 6px 2px 16px 0px, rgba(247, 241, 234, 1) -6px -2px 16px 0px;
+        transition: transform 0.3s
+    }
+
+    .col2:hover {
+        transform: scale(1.05);
+    }
 </style>
 """
 # Create Town and Suburb Filter 
@@ -196,7 +206,7 @@ def Home():
 
     town_col, suburb_col = st.columns(2, gap = 'large')
     with town_col:
-        selected_town = st.multiselect('Select Town', options=joint_data.Location.unique(), default=joint_data.Location.unique()[0])
+        selected_town = st.multiselect('Select Town', options=joint_data.Location.unique(), default=joint_data.Location.unique()[3])
 
     with suburb_col:
         if selected_town:
@@ -355,8 +365,46 @@ def PricePredict():
         end_to_end('models/lekki_model.pkl', 'models/lekki_encoder.pkl', 'datasets/production_data/lekki_deploy.csv')
 
 
+def featurePrediction():
+    # Render the HTML content and CSS
+    st.markdown(css + html_content, unsafe_allow_html=True)
+  
+    # Display the divider
+    st.sidebar.markdown(css + "<hr class = 'colorful-divider'>", unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html= True)
+    st.markdown(css + "<hr class = 'colorful-divider'>", unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html= True)
+
+    col1, col2 = st.columns([2,1])
+    with col1:
+        col1.image('image/pngwing2.com(1).png')
+    with col2:
+        st.markdown(css + f"<p class = 'col2'><b>🏡 Your Dream Home Awaits!</b><br><br>Tell us your budget, we give the best house features. Whether you're looking for a cozy starter home or a \
+                    luxurious estate, our expert team will find the perfect property to fit your budget. From stunning views to modern amenities, \
+                    we'll help you find the ideal home for you. Contact us today and let's make your real estate dreams a reality!</p>", \
+                        unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html= True)
+        # Display the divider
+    st.markdown(css + "<hr class = 'colorful-divider'>", unsafe_allow_html=True)
+    st.markdown("<br><br>", unsafe_allow_html= True)
+
+    input_price, features = st.columns([1,2], gap = 'large')
+    with input_price:
+        minimum = input_price.number_input('Input Your Minimum Budget', value = 500_000)
+        maximum = input_price.number_input('Input Your Maximum Budget', value = 1_000_000)
+        get_feature = input_price.button('Press To Get Best Houses')
+
+    with features:
+        sel_cols = ['Location', 'Location Area', 'Price', 'Bedroom', 'Bathrooms', 'Toilet']
+        display_data = joint_data[sel_cols]
+        display_data.reset_index(drop = True, inplace = True)
+        if get_feature:
+            features.dataframe(display_data.loc[(display_data.Price >= minimum) & (display_data.Price <= maximum)], use_container_width= True)
+
 
 def sidebar():
+    st.sidebar.image('image/pngwing.com (3).png', caption = 'Real Estate Agency')
     with st.sidebar:
             selected = option_menu("Main Menu", ["Summary", 'Price Prediction', 'Feature Prediction', 'Github'], 
             icons=['house', 'tags', 'bag-dash', 'github'], menu_icon="cast", default_index=0)
@@ -372,6 +420,11 @@ def sidebar():
 
     elif selected == 'Feature Prediction':
         st.markdown(css + "<h1 class = 'h1'>FEATURE PREDICTION", unsafe_allow_html=True)
+        featurePrediction()
+
+    elif selected == 'Github':
+            st.sidebar.markdown("[GitHub](https://github.com)", unsafe_allow_html=True)
+        
 
 
 sidebar()
