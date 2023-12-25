@@ -178,7 +178,7 @@ css = """
         border-radius: 20px;
         justify-content: center;
         margin-top: 2rem;
-        padding: 4rem;
+        padding: 3rem;
         box-shadow: rgba(192, 147, 84, 1) 6px 2px 16px 0px, rgba(247, 241, 234, 1) -6px -2px 16px 0px;
         transition: transform 0.3s
     }
