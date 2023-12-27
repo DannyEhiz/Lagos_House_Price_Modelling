@@ -2,12 +2,12 @@
 # Lagos House Price Prediction
 
 <!-- Description -->
-This project is focused on utilizing HTML, CSS, and Bootstrap within Streamlit to deploy predictive models. Data was scraped from Nigeria Property Center, an online platform for real estate advertisements, specifically targeting house listings in key areas such as Ikeja, Victoria Island, Agege, Ajah, Gbagada, Lekki, Yaba, and Ikoyi.
+This project centers on deploying predictive models using HTML, CSS, and Bootstrap in Streamlit, leveraging scraped data from Nigeria Property Center. Focused on prime areas like Ikeja, Victoria Island, Agege, Ajah, Gbagada, Lekki, Yaba, and Ikoyi, the dataset captures diverse house listings. Through web scraping, the project gathered detailed property attributes, including type, location, price, square footage, bedrooms, bathrooms, and amenities, forming the basis for analysis and model development.
+
+Utilizing HTML, CSS, and Bootstrap within Streamlit enabled seamless model deployment in a user-friendly interface. The integration of these technologies allowed for responsive design, ensuring an engaging user experience. The models, ranging from price estimation to market trends analysis, were developed using varied machine learning algorithms, aiming to offer insights and forecast property demand while uncovering influential features in Nigeria's real estate market.
 
 <!-- Table of Contents -->
 ## Table of Contents
-
-- [Overview](#overview)
 - [Features](#features)
 - [Models](#models)
 - [Demo](#demo)
@@ -17,7 +17,7 @@ This project is focused on utilizing HTML, CSS, and Bootstrap within Streamlit t
 
 ## Overview
 
-This project utilized HTML, CSS, and Bootstrap in conjunction with Streamlit for deployment. It involved data scraping from Nigeria Property Center using Beautiful Soup. The scraped data underwent rigorous analysis to prepare it for predictive modeling.
+The project is designed to achieve two key objectives: Firstly, to predict house prices by analyzing various amenities and features. Secondly, to offer personalized recommendations for suitable house types based on specific budget constraints. This functionality is seamlessly integrated into a user-friendly interface that leverages scraped real estate data from Nigeri Property Center, and employs advanced machine learning models to enhance decision-making within Nigeria's real estate market.
 
 ## Features
 
