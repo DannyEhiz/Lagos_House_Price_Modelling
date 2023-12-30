@@ -405,7 +405,8 @@ def featurePrediction():
         display_data.reset_index(drop = True, inplace = True)
         if get_feature:
             display_data = display_data.loc[(display_data.Price >= minimum) & (display_data.Price <= maximum)
-            features.dataframe(display_data.drop_duplicates(), use_container_width= True)
+            display_data.drop_duplicates(inplace = True)
+            features.dataframe(display_data, use_container_width= True)
 
 
 def sidebar():
