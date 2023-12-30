@@ -396,7 +396,7 @@ def featurePrediction():
     input_price, features = st.columns([1,2], gap = 'large')
     with input_price:
         minimum = input_price.number_input('Input Your Minimum Budget', value = 500_000)
-        maximum = input_price.number_input('Input Your Maximum Budget', value = 1_000_000)
+        maximum = input_price.number_input('Input Your Maximum Budget', value = 700_000)
         get_feature = input_price.button('Press To Get Best Houses')
 
     with features:
@@ -404,9 +404,9 @@ def featurePrediction():
         display_data = joint_data[sel_cols]
         display_data.reset_index(drop = True, inplace = True)
         if get_feature:
-            display_data = display_data.loc[(display_data.Price >= minimum) & (display_data.Price <= maximum)
-            display_data.drop_duplicates(inplace = True)
-            features.dataframe(display_data, use_container_width= True)
+            display_data = display_data.loc[(display_data.Price >= minimum) & (display_data.Price <= maximum)]
+            display_data.drop_duplicates(inplace = True, ignore_index = True)
+            features.dataframe(display_data, use_container_width = True)
 
 
 def sidebar():
